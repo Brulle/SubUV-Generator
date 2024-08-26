@@ -1,4 +1,11 @@
 @echo off
+
+REM Delete the REMOVE-ME.txt file if it exists
+if exist "images\REMOVE-ME.txt" (
+    del "images\REMOVE-ME.txt"
+    echo Removed REMOVE-ME.txt.
+)
+
 echo Running SubUVGenerator...
 python main.py
 
