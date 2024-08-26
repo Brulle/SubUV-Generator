@@ -1,0 +1,1315 @@
+2024-08-26 19:50:39,006 - INFO - Starting SubUV texture creation. Input folder: ./images, Output file: ButterflySubUVTexture.png
+2024-08-26 19:50:39,109 - INFO - Loaded image: 0010.png
+2024-08-26 19:50:39,112 - INFO - Loaded image: 0011.png
+2024-08-26 19:50:39,117 - INFO - Loaded image: 0012.png
+2024-08-26 19:50:39,121 - INFO - Loaded image: 0013.png
+2024-08-26 19:50:39,125 - INFO - Loaded image: 0014.png
+2024-08-26 19:50:39,128 - INFO - Loaded image: 0015.png
+2024-08-26 19:50:39,132 - INFO - Loaded image: 0016.png
+2024-08-26 19:50:39,137 - INFO - Loaded image: 0017.png
+2024-08-26 19:50:39,140 - INFO - Loaded image: 0018.png
+2024-08-26 19:50:39,144 - INFO - Loaded image: 0019.png
+2024-08-26 19:50:39,148 - INFO - Loaded image: 0020.png
+2024-08-26 19:50:39,153 - INFO - Loaded image: 0021.png
+2024-08-26 19:50:39,156 - INFO - Loaded image: 0022.png
+2024-08-26 19:50:39,160 - INFO - Loaded image: 0023.png
+2024-08-26 19:50:39,166 - INFO - Loaded image: 0024.png
+2024-08-26 19:50:39,171 - INFO - Loaded image: 0025.png
+2024-08-26 19:50:39,174 - INFO - Loaded image: 0026.png
+2024-08-26 19:50:39,178 - INFO - Loaded image: 0027.png
+2024-08-26 19:50:39,182 - INFO - Loaded image: 0028.png
+2024-08-26 19:50:39,185 - INFO - Loaded image: 0029.png
+2024-08-26 19:50:39,189 - INFO - Loaded image: 0030.png
+2024-08-26 19:50:39,193 - INFO - Loaded image: 0031.png
+2024-08-26 19:50:39,199 - INFO - Loaded image: 0032.png
+2024-08-26 19:50:39,204 - INFO - Loaded image: 0033.png
+2024-08-26 19:50:39,207 - INFO - Loaded image: 0034.png
+2024-08-26 19:50:39,211 - INFO - Loaded image: 0035.png
+2024-08-26 19:50:39,214 - INFO - Loaded image: 0036.png
+2024-08-26 19:50:39,219 - INFO - Loaded image: 0037.png
+2024-08-26 19:50:39,222 - INFO - Loaded image: 0038.png
+2024-08-26 19:50:39,227 - INFO - Loaded image: 0039.png
+2024-08-26 19:50:39,231 - INFO - Loaded image: 0040.png
+2024-08-26 19:50:39,234 - INFO - Loaded image: 0041.png
+2024-08-26 19:50:39,238 - INFO - Loaded image: 0042.png
+2024-08-26 19:50:39,241 - INFO - Loaded image: 0043.png
+2024-08-26 19:50:39,244 - INFO - Loaded image: 0044.png
+2024-08-26 19:50:39,247 - INFO - Loaded image: 0045.png
+2024-08-26 19:50:39,251 - INFO - Loaded image: 0046.png
+2024-08-26 19:50:39,255 - INFO - Loaded image: 0047.png
+2024-08-26 19:50:39,259 - INFO - Loaded image: 0048.png
+2024-08-26 19:50:39,264 - INFO - Loaded image: 0049.png
+2024-08-26 19:50:39,267 - INFO - Loaded image: 0050.png
+2024-08-26 19:50:39,271 - INFO - Loaded image: 0051.png
+2024-08-26 19:50:39,276 - INFO - Loaded image: 0052.png
+2024-08-26 19:50:39,281 - INFO - Loaded image: 0053.png
+2024-08-26 19:50:39,285 - INFO - Loaded image: 0054.png
+2024-08-26 19:50:39,290 - INFO - Loaded image: 0055.png
+2024-08-26 19:50:39,293 - INFO - Loaded image: 0056.png
+2024-08-26 19:50:39,299 - INFO - Loaded image: 0057.png
+2024-08-26 19:50:39,304 - INFO - Loaded image: 0058.png
+2024-08-26 19:50:39,309 - INFO - Loaded image: 0059.png
+2024-08-26 19:50:39,314 - INFO - Loaded image: 0060.png
+2024-08-26 19:50:39,317 - INFO - Loaded image: 0061.png
+2024-08-26 19:50:39,321 - INFO - Loaded image: 0062.png
+2024-08-26 19:50:39,325 - INFO - Loaded image: 0063.png
+2024-08-26 19:50:39,328 - INFO - Loaded image: 0064.png
+2024-08-26 19:50:39,331 - INFO - Loaded image: 0065.png
+2024-08-26 19:50:39,334 - INFO - Loaded image: 0066.png
+2024-08-26 19:50:39,339 - INFO - Loaded image: 0067.png
+2024-08-26 19:50:39,342 - INFO - Loaded image: 0068.png
+2024-08-26 19:50:39,345 - INFO - Loaded image: 0069.png
+2024-08-26 19:50:39,348 - INFO - Loaded image: 0070.png
+2024-08-26 19:50:39,352 - INFO - Loaded image: 0071.png
+2024-08-26 19:50:39,356 - INFO - Loaded image: 0072.png
+2024-08-26 19:50:39,360 - INFO - Loaded image: 0073.png
+2024-08-26 19:50:39,360 - INFO - Number of images: 64, Grid size: 8x8
+2024-08-26 19:50:39,361 - INFO - Created a blank grid image of size 1024x1024
+2024-08-26 19:50:39,362 - INFO - Pasted image 0 at position (0, 0)
+2024-08-26 19:50:39,362 - INFO - Pasted image 1 at position (128, 0)
+2024-08-26 19:50:39,362 - INFO - Pasted image 2 at position (256, 0)
+2024-08-26 19:50:39,362 - INFO - Pasted image 3 at position (384, 0)
+2024-08-26 19:50:39,363 - INFO - Pasted image 4 at position (512, 0)
+2024-08-26 19:50:39,363 - INFO - Pasted image 5 at position (640, 0)
+2024-08-26 19:50:39,363 - INFO - Pasted image 6 at position (768, 0)
+2024-08-26 19:50:39,364 - INFO - Pasted image 7 at position (896, 0)
+2024-08-26 19:50:39,364 - INFO - Pasted image 8 at position (0, 128)
+2024-08-26 19:50:39,365 - INFO - Pasted image 9 at position (128, 128)
+2024-08-26 19:50:39,365 - INFO - Pasted image 10 at position (256, 128)
+2024-08-26 19:50:39,365 - INFO - Pasted image 11 at position (384, 128)
+2024-08-26 19:50:39,366 - INFO - Pasted image 12 at position (512, 128)
+2024-08-26 19:50:39,366 - INFO - Pasted image 13 at position (640, 128)
+2024-08-26 19:50:39,366 - INFO - Pasted image 14 at position (768, 128)
+2024-08-26 19:50:39,367 - INFO - Pasted image 15 at position (896, 128)
+2024-08-26 19:50:39,367 - INFO - Pasted image 16 at position (0, 256)
+2024-08-26 19:50:39,367 - INFO - Pasted image 17 at position (128, 256)
+2024-08-26 19:50:39,368 - INFO - Pasted image 18 at position (256, 256)
+2024-08-26 19:50:39,368 - INFO - Pasted image 19 at position (384, 256)
+2024-08-26 19:50:39,368 - INFO - Pasted image 20 at position (512, 256)
+2024-08-26 19:50:39,369 - INFO - Pasted image 21 at position (640, 256)
+2024-08-26 19:50:39,369 - INFO - Pasted image 22 at position (768, 256)
+2024-08-26 19:50:39,369 - INFO - Pasted image 23 at position (896, 256)
+2024-08-26 19:50:39,370 - INFO - Pasted image 24 at position (0, 384)
+2024-08-26 19:50:39,370 - INFO - Pasted image 25 at position (128, 384)
+2024-08-26 19:50:39,370 - INFO - Pasted image 26 at position (256, 384)
+2024-08-26 19:50:39,371 - INFO - Pasted image 27 at position (384, 384)
+2024-08-26 19:50:39,371 - INFO - Pasted image 28 at position (512, 384)
+2024-08-26 19:50:39,371 - INFO - Pasted image 29 at position (640, 384)
+2024-08-26 19:50:39,372 - INFO - Pasted image 30 at position (768, 384)
+2024-08-26 19:50:39,372 - INFO - Pasted image 31 at position (896, 384)
+2024-08-26 19:50:39,372 - INFO - Pasted image 32 at position (0, 512)
+2024-08-26 19:50:39,373 - INFO - Pasted image 33 at position (128, 512)
+2024-08-26 19:50:39,374 - INFO - Pasted image 34 at position (256, 512)
+2024-08-26 19:50:39,374 - INFO - Pasted image 35 at position (384, 512)
+2024-08-26 19:50:39,374 - INFO - Pasted image 36 at position (512, 512)
+2024-08-26 19:50:39,375 - INFO - Pasted image 37 at position (640, 512)
+2024-08-26 19:50:39,375 - INFO - Pasted image 38 at position (768, 512)
+2024-08-26 19:50:39,376 - INFO - Pasted image 39 at position (896, 512)
+2024-08-26 19:50:39,376 - INFO - Pasted image 40 at position (0, 640)
+2024-08-26 19:50:39,376 - INFO - Pasted image 41 at position (128, 640)
+2024-08-26 19:50:39,377 - INFO - Pasted image 42 at position (256, 640)
+2024-08-26 19:50:39,377 - INFO - Pasted image 43 at position (384, 640)
+2024-08-26 19:50:39,378 - INFO - Pasted image 44 at position (512, 640)
+2024-08-26 19:50:39,378 - INFO - Pasted image 45 at position (640, 640)
+2024-08-26 19:50:39,378 - INFO - Pasted image 46 at position (768, 640)
+2024-08-26 19:50:39,379 - INFO - Pasted image 47 at position (896, 640)
+2024-08-26 19:50:39,379 - INFO - Pasted image 48 at position (0, 768)
+2024-08-26 19:50:39,380 - INFO - Pasted image 49 at position (128, 768)
+2024-08-26 19:50:39,380 - INFO - Pasted image 50 at position (256, 768)
+2024-08-26 19:50:39,380 - INFO - Pasted image 51 at position (384, 768)
+2024-08-26 19:50:39,381 - INFO - Pasted image 52 at position (512, 768)
+2024-08-26 19:50:39,381 - INFO - Pasted image 53 at position (640, 768)
+2024-08-26 19:50:39,381 - INFO - Pasted image 54 at position (768, 768)
+2024-08-26 19:50:39,382 - INFO - Pasted image 55 at position (896, 768)
+2024-08-26 19:50:39,382 - INFO - Pasted image 56 at position (0, 896)
+2024-08-26 19:50:39,382 - INFO - Pasted image 57 at position (128, 896)
+2024-08-26 19:50:39,382 - INFO - Pasted image 58 at position (256, 896)
+2024-08-26 19:50:39,383 - INFO - Pasted image 59 at position (384, 896)
+2024-08-26 19:50:39,383 - INFO - Pasted image 60 at position (512, 896)
+2024-08-26 19:50:39,384 - INFO - Pasted image 61 at position (640, 896)
+2024-08-26 19:50:39,384 - INFO - Pasted image 62 at position (768, 896)
+2024-08-26 19:50:39,385 - INFO - Pasted image 63 at position (896, 896)
+2024-08-26 19:50:39,498 - INFO - Successfully saved the SubUV texture to ButterflySubUVTexture.png
+2024-08-26 19:58:46,900 - INFO - Logging has started.
+2024-08-26 20:00:30,731 - INFO - Logging has started.
+2024-08-26 20:00:30,731 - INFO - Starting SubUV texture creation. Input folder: ./images, Output file: output_subuv_texture.png
+2024-08-26 20:00:30,746 - INFO - Loaded image: 0010.png
+2024-08-26 20:00:30,746 - INFO - Loaded image: 0011.png
+2024-08-26 20:00:30,746 - INFO - Loaded image: 0012.png
+2024-08-26 20:00:30,747 - INFO - Loaded image: 0013.png
+2024-08-26 20:00:30,747 - INFO - Loaded image: 0014.png
+2024-08-26 20:00:30,747 - INFO - Loaded image: 0015.png
+2024-08-26 20:00:30,748 - INFO - Loaded image: 0016.png
+2024-08-26 20:00:30,748 - INFO - Loaded image: 0017.png
+2024-08-26 20:00:30,748 - INFO - Loaded image: 0018.png
+2024-08-26 20:00:30,748 - INFO - Loaded image: 0019.png
+2024-08-26 20:00:30,749 - INFO - Loaded image: 0020.png
+2024-08-26 20:00:30,749 - INFO - Loaded image: 0021.png
+2024-08-26 20:00:30,749 - INFO - Loaded image: 0022.png
+2024-08-26 20:00:30,749 - INFO - Loaded image: 0023.png
+2024-08-26 20:00:30,750 - INFO - Loaded image: 0024.png
+2024-08-26 20:00:30,750 - INFO - Loaded image: 0025.png
+2024-08-26 20:00:30,751 - INFO - Loaded image: 0026.png
+2024-08-26 20:00:30,751 - INFO - Loaded image: 0027.png
+2024-08-26 20:00:30,751 - INFO - Loaded image: 0028.png
+2024-08-26 20:00:30,751 - INFO - Loaded image: 0029.png
+2024-08-26 20:00:30,752 - INFO - Loaded image: 0030.png
+2024-08-26 20:00:30,752 - INFO - Loaded image: 0031.png
+2024-08-26 20:00:30,752 - INFO - Loaded image: 0032.png
+2024-08-26 20:00:30,752 - INFO - Loaded image: 0033.png
+2024-08-26 20:00:30,752 - INFO - Loaded image: 0034.png
+2024-08-26 20:00:30,752 - INFO - Loaded image: 0035.png
+2024-08-26 20:00:30,752 - INFO - Loaded image: 0036.png
+2024-08-26 20:00:30,753 - INFO - Loaded image: 0037.png
+2024-08-26 20:00:30,753 - INFO - Loaded image: 0038.png
+2024-08-26 20:00:30,753 - INFO - Loaded image: 0039.png
+2024-08-26 20:00:30,753 - INFO - Loaded image: 0040.png
+2024-08-26 20:00:30,754 - INFO - Loaded image: 0041.png
+2024-08-26 20:00:30,754 - INFO - Loaded image: 0042.png
+2024-08-26 20:00:30,754 - INFO - Loaded image: 0043.png
+2024-08-26 20:00:30,755 - INFO - Loaded image: 0044.png
+2024-08-26 20:00:30,755 - INFO - Loaded image: 0045.png
+2024-08-26 20:00:30,755 - INFO - Loaded image: 0046.png
+2024-08-26 20:00:30,755 - INFO - Loaded image: 0047.png
+2024-08-26 20:00:30,756 - INFO - Loaded image: 0048.png
+2024-08-26 20:00:30,756 - INFO - Loaded image: 0049.png
+2024-08-26 20:00:30,756 - INFO - Loaded image: 0050.png
+2024-08-26 20:00:30,757 - INFO - Loaded image: 0051.png
+2024-08-26 20:00:30,757 - INFO - Loaded image: 0052.png
+2024-08-26 20:00:30,757 - INFO - Loaded image: 0053.png
+2024-08-26 20:00:30,758 - INFO - Loaded image: 0054.png
+2024-08-26 20:00:30,758 - INFO - Loaded image: 0055.png
+2024-08-26 20:00:30,758 - INFO - Loaded image: 0056.png
+2024-08-26 20:00:30,759 - INFO - Loaded image: 0057.png
+2024-08-26 20:00:30,759 - INFO - Loaded image: 0058.png
+2024-08-26 20:00:30,759 - INFO - Loaded image: 0059.png
+2024-08-26 20:00:30,759 - INFO - Loaded image: 0060.png
+2024-08-26 20:00:30,760 - INFO - Loaded image: 0061.png
+2024-08-26 20:00:30,760 - INFO - Loaded image: 0062.png
+2024-08-26 20:00:30,760 - INFO - Loaded image: 0063.png
+2024-08-26 20:00:30,760 - INFO - Loaded image: 0064.png
+2024-08-26 20:00:30,761 - INFO - Loaded image: 0065.png
+2024-08-26 20:00:30,761 - INFO - Loaded image: 0066.png
+2024-08-26 20:00:30,761 - INFO - Loaded image: 0067.png
+2024-08-26 20:00:30,762 - INFO - Loaded image: 0068.png
+2024-08-26 20:00:30,762 - INFO - Loaded image: 0069.png
+2024-08-26 20:00:30,762 - INFO - Loaded image: 0070.png
+2024-08-26 20:00:30,762 - INFO - Loaded image: 0071.png
+2024-08-26 20:00:30,763 - INFO - Loaded image: 0072.png
+2024-08-26 20:00:30,763 - INFO - Loaded image: 0073.png
+2024-08-26 20:00:30,763 - INFO - Grid size: 8x8, Total grid dimensions: 512x512
+2024-08-26 20:00:30,763 - INFO - Created a blank grid image of size 512x512
+2024-08-26 20:00:30,765 - INFO - Resized image 0 to (64, 64)
+2024-08-26 20:00:30,765 - INFO - Pasted image 0 at position (0, 0)
+2024-08-26 20:00:30,766 - INFO - Resized image 1 to (64, 64)
+2024-08-26 20:00:30,766 - INFO - Pasted image 1 at position (64, 0)
+2024-08-26 20:00:30,766 - INFO - Resized image 2 to (64, 64)
+2024-08-26 20:00:30,766 - INFO - Pasted image 2 at position (128, 0)
+2024-08-26 20:00:30,767 - INFO - Resized image 3 to (64, 64)
+2024-08-26 20:00:30,767 - INFO - Pasted image 3 at position (192, 0)
+2024-08-26 20:00:30,768 - INFO - Resized image 4 to (64, 64)
+2024-08-26 20:00:30,768 - INFO - Pasted image 4 at position (256, 0)
+2024-08-26 20:00:30,768 - INFO - Resized image 5 to (64, 64)
+2024-08-26 20:00:30,768 - INFO - Pasted image 5 at position (320, 0)
+2024-08-26 20:00:30,769 - INFO - Resized image 6 to (64, 64)
+2024-08-26 20:00:30,769 - INFO - Pasted image 6 at position (384, 0)
+2024-08-26 20:00:30,770 - INFO - Resized image 7 to (64, 64)
+2024-08-26 20:00:30,770 - INFO - Pasted image 7 at position (448, 0)
+2024-08-26 20:00:30,770 - INFO - Resized image 8 to (64, 64)
+2024-08-26 20:00:30,770 - INFO - Pasted image 8 at position (0, 64)
+2024-08-26 20:00:30,771 - INFO - Resized image 9 to (64, 64)
+2024-08-26 20:00:30,771 - INFO - Pasted image 9 at position (64, 64)
+2024-08-26 20:00:30,771 - INFO - Resized image 10 to (64, 64)
+2024-08-26 20:00:30,771 - INFO - Pasted image 10 at position (128, 64)
+2024-08-26 20:00:30,772 - INFO - Resized image 11 to (64, 64)
+2024-08-26 20:00:30,772 - INFO - Pasted image 11 at position (192, 64)
+2024-08-26 20:00:30,772 - INFO - Resized image 12 to (64, 64)
+2024-08-26 20:00:30,772 - INFO - Pasted image 12 at position (256, 64)
+2024-08-26 20:00:30,773 - INFO - Resized image 13 to (64, 64)
+2024-08-26 20:00:30,773 - INFO - Pasted image 13 at position (320, 64)
+2024-08-26 20:00:30,773 - INFO - Resized image 14 to (64, 64)
+2024-08-26 20:00:30,773 - INFO - Pasted image 14 at position (384, 64)
+2024-08-26 20:00:30,774 - INFO - Resized image 15 to (64, 64)
+2024-08-26 20:00:30,774 - INFO - Pasted image 15 at position (448, 64)
+2024-08-26 20:00:30,775 - INFO - Resized image 16 to (64, 64)
+2024-08-26 20:00:30,775 - INFO - Pasted image 16 at position (0, 128)
+2024-08-26 20:00:30,775 - INFO - Resized image 17 to (64, 64)
+2024-08-26 20:00:30,775 - INFO - Pasted image 17 at position (64, 128)
+2024-08-26 20:00:30,776 - INFO - Resized image 18 to (64, 64)
+2024-08-26 20:00:30,776 - INFO - Pasted image 18 at position (128, 128)
+2024-08-26 20:00:30,776 - INFO - Resized image 19 to (64, 64)
+2024-08-26 20:00:30,776 - INFO - Pasted image 19 at position (192, 128)
+2024-08-26 20:00:30,777 - INFO - Resized image 20 to (64, 64)
+2024-08-26 20:00:30,777 - INFO - Pasted image 20 at position (256, 128)
+2024-08-26 20:00:30,777 - INFO - Resized image 21 to (64, 64)
+2024-08-26 20:00:30,777 - INFO - Pasted image 21 at position (320, 128)
+2024-08-26 20:00:30,778 - INFO - Resized image 22 to (64, 64)
+2024-08-26 20:00:30,778 - INFO - Pasted image 22 at position (384, 128)
+2024-08-26 20:00:30,778 - INFO - Resized image 23 to (64, 64)
+2024-08-26 20:00:30,778 - INFO - Pasted image 23 at position (448, 128)
+2024-08-26 20:00:30,779 - INFO - Resized image 24 to (64, 64)
+2024-08-26 20:00:30,779 - INFO - Pasted image 24 at position (0, 192)
+2024-08-26 20:00:30,779 - INFO - Resized image 25 to (64, 64)
+2024-08-26 20:00:30,779 - INFO - Pasted image 25 at position (64, 192)
+2024-08-26 20:00:30,780 - INFO - Resized image 26 to (64, 64)
+2024-08-26 20:00:30,780 - INFO - Pasted image 26 at position (128, 192)
+2024-08-26 20:00:30,780 - INFO - Resized image 27 to (64, 64)
+2024-08-26 20:00:30,780 - INFO - Pasted image 27 at position (192, 192)
+2024-08-26 20:00:30,781 - INFO - Resized image 28 to (64, 64)
+2024-08-26 20:00:30,781 - INFO - Pasted image 28 at position (256, 192)
+2024-08-26 20:00:30,781 - INFO - Resized image 29 to (64, 64)
+2024-08-26 20:00:30,781 - INFO - Pasted image 29 at position (320, 192)
+2024-08-26 20:00:30,782 - INFO - Resized image 30 to (64, 64)
+2024-08-26 20:00:30,782 - INFO - Pasted image 30 at position (384, 192)
+2024-08-26 20:00:30,782 - INFO - Resized image 31 to (64, 64)
+2024-08-26 20:00:30,782 - INFO - Pasted image 31 at position (448, 192)
+2024-08-26 20:00:30,783 - INFO - Resized image 32 to (64, 64)
+2024-08-26 20:00:30,783 - INFO - Pasted image 32 at position (0, 256)
+2024-08-26 20:00:30,784 - INFO - Resized image 33 to (64, 64)
+2024-08-26 20:00:30,784 - INFO - Pasted image 33 at position (64, 256)
+2024-08-26 20:00:30,784 - INFO - Resized image 34 to (64, 64)
+2024-08-26 20:00:30,784 - INFO - Pasted image 34 at position (128, 256)
+2024-08-26 20:00:30,785 - INFO - Resized image 35 to (64, 64)
+2024-08-26 20:00:30,785 - INFO - Pasted image 35 at position (192, 256)
+2024-08-26 20:00:30,786 - INFO - Resized image 36 to (64, 64)
+2024-08-26 20:00:30,786 - INFO - Pasted image 36 at position (256, 256)
+2024-08-26 20:00:30,786 - INFO - Resized image 37 to (64, 64)
+2024-08-26 20:00:30,786 - INFO - Pasted image 37 at position (320, 256)
+2024-08-26 20:00:30,787 - INFO - Resized image 38 to (64, 64)
+2024-08-26 20:00:30,787 - INFO - Pasted image 38 at position (384, 256)
+2024-08-26 20:00:30,788 - INFO - Resized image 39 to (64, 64)
+2024-08-26 20:00:30,788 - INFO - Pasted image 39 at position (448, 256)
+2024-08-26 20:00:30,788 - INFO - Resized image 40 to (64, 64)
+2024-08-26 20:00:30,788 - INFO - Pasted image 40 at position (0, 320)
+2024-08-26 20:00:30,789 - INFO - Resized image 41 to (64, 64)
+2024-08-26 20:00:30,789 - INFO - Pasted image 41 at position (64, 320)
+2024-08-26 20:00:30,790 - INFO - Resized image 42 to (64, 64)
+2024-08-26 20:00:30,790 - INFO - Pasted image 42 at position (128, 320)
+2024-08-26 20:00:30,790 - INFO - Resized image 43 to (64, 64)
+2024-08-26 20:00:30,790 - INFO - Pasted image 43 at position (192, 320)
+2024-08-26 20:00:30,791 - INFO - Resized image 44 to (64, 64)
+2024-08-26 20:00:30,791 - INFO - Pasted image 44 at position (256, 320)
+2024-08-26 20:00:30,791 - INFO - Resized image 45 to (64, 64)
+2024-08-26 20:00:30,791 - INFO - Pasted image 45 at position (320, 320)
+2024-08-26 20:00:30,792 - INFO - Resized image 46 to (64, 64)
+2024-08-26 20:00:30,792 - INFO - Pasted image 46 at position (384, 320)
+2024-08-26 20:00:30,793 - INFO - Resized image 47 to (64, 64)
+2024-08-26 20:00:30,793 - INFO - Pasted image 47 at position (448, 320)
+2024-08-26 20:00:30,793 - INFO - Resized image 48 to (64, 64)
+2024-08-26 20:00:30,793 - INFO - Pasted image 48 at position (0, 384)
+2024-08-26 20:00:30,794 - INFO - Resized image 49 to (64, 64)
+2024-08-26 20:00:30,794 - INFO - Pasted image 49 at position (64, 384)
+2024-08-26 20:00:30,794 - INFO - Resized image 50 to (64, 64)
+2024-08-26 20:00:30,795 - INFO - Pasted image 50 at position (128, 384)
+2024-08-26 20:00:30,795 - INFO - Resized image 51 to (64, 64)
+2024-08-26 20:00:30,795 - INFO - Pasted image 51 at position (192, 384)
+2024-08-26 20:00:30,796 - INFO - Resized image 52 to (64, 64)
+2024-08-26 20:00:30,796 - INFO - Pasted image 52 at position (256, 384)
+2024-08-26 20:00:30,796 - INFO - Resized image 53 to (64, 64)
+2024-08-26 20:00:30,796 - INFO - Pasted image 53 at position (320, 384)
+2024-08-26 20:00:30,797 - INFO - Resized image 54 to (64, 64)
+2024-08-26 20:00:30,797 - INFO - Pasted image 54 at position (384, 384)
+2024-08-26 20:00:30,798 - INFO - Resized image 55 to (64, 64)
+2024-08-26 20:00:30,798 - INFO - Pasted image 55 at position (448, 384)
+2024-08-26 20:00:30,798 - INFO - Resized image 56 to (64, 64)
+2024-08-26 20:00:30,798 - INFO - Pasted image 56 at position (0, 448)
+2024-08-26 20:00:30,799 - INFO - Resized image 57 to (64, 64)
+2024-08-26 20:00:30,799 - INFO - Pasted image 57 at position (64, 448)
+2024-08-26 20:00:30,799 - INFO - Resized image 58 to (64, 64)
+2024-08-26 20:00:30,799 - INFO - Pasted image 58 at position (128, 448)
+2024-08-26 20:00:30,800 - INFO - Resized image 59 to (64, 64)
+2024-08-26 20:00:30,800 - INFO - Pasted image 59 at position (192, 448)
+2024-08-26 20:00:30,800 - INFO - Resized image 60 to (64, 64)
+2024-08-26 20:00:30,801 - INFO - Pasted image 60 at position (256, 448)
+2024-08-26 20:00:30,801 - INFO - Resized image 61 to (64, 64)
+2024-08-26 20:00:30,801 - INFO - Pasted image 61 at position (320, 448)
+2024-08-26 20:00:30,802 - INFO - Resized image 62 to (64, 64)
+2024-08-26 20:00:30,802 - INFO - Pasted image 62 at position (384, 448)
+2024-08-26 20:00:30,802 - INFO - Resized image 63 to (64, 64)
+2024-08-26 20:00:30,802 - INFO - Pasted image 63 at position (448, 448)
+2024-08-26 20:00:30,823 - INFO - Successfully saved the SubUV texture to output_subuv_texture.png
+2024-08-26 20:01:22,501 - INFO - Logging has started.
+2024-08-26 20:01:22,502 - INFO - Starting SubUV texture creation. Input folder: ./images, Output file: output_subuv_texture.png
+2024-08-26 20:01:22,514 - INFO - Loaded image: 0010.png
+2024-08-26 20:01:22,515 - INFO - Loaded image: 0011.png
+2024-08-26 20:01:22,515 - INFO - Loaded image: 0012.png
+2024-08-26 20:01:22,515 - INFO - Loaded image: 0013.png
+2024-08-26 20:01:22,516 - INFO - Loaded image: 0014.png
+2024-08-26 20:01:22,516 - INFO - Loaded image: 0015.png
+2024-08-26 20:01:22,516 - INFO - Loaded image: 0016.png
+2024-08-26 20:01:22,516 - INFO - Loaded image: 0017.png
+2024-08-26 20:01:22,517 - INFO - Loaded image: 0018.png
+2024-08-26 20:01:22,517 - INFO - Loaded image: 0019.png
+2024-08-26 20:01:22,517 - INFO - Loaded image: 0020.png
+2024-08-26 20:01:22,517 - INFO - Loaded image: 0021.png
+2024-08-26 20:01:22,518 - INFO - Loaded image: 0022.png
+2024-08-26 20:01:22,518 - INFO - Loaded image: 0023.png
+2024-08-26 20:01:22,518 - INFO - Loaded image: 0024.png
+2024-08-26 20:01:22,518 - INFO - Loaded image: 0025.png
+2024-08-26 20:01:22,519 - INFO - Loaded image: 0026.png
+2024-08-26 20:01:22,519 - INFO - Loaded image: 0027.png
+2024-08-26 20:01:22,519 - INFO - Loaded image: 0028.png
+2024-08-26 20:01:22,520 - INFO - Loaded image: 0029.png
+2024-08-26 20:01:22,520 - INFO - Loaded image: 0030.png
+2024-08-26 20:01:22,520 - INFO - Loaded image: 0031.png
+2024-08-26 20:01:22,521 - INFO - Loaded image: 0032.png
+2024-08-26 20:01:22,521 - INFO - Loaded image: 0033.png
+2024-08-26 20:01:22,522 - INFO - Loaded image: 0034.png
+2024-08-26 20:01:22,522 - INFO - Loaded image: 0035.png
+2024-08-26 20:01:22,522 - INFO - Loaded image: 0036.png
+2024-08-26 20:01:22,522 - INFO - Loaded image: 0037.png
+2024-08-26 20:01:22,523 - INFO - Loaded image: 0038.png
+2024-08-26 20:01:22,523 - INFO - Loaded image: 0039.png
+2024-08-26 20:01:22,523 - INFO - Loaded image: 0040.png
+2024-08-26 20:01:22,524 - INFO - Loaded image: 0041.png
+2024-08-26 20:01:22,524 - INFO - Loaded image: 0042.png
+2024-08-26 20:01:22,524 - INFO - Loaded image: 0043.png
+2024-08-26 20:01:22,524 - INFO - Loaded image: 0044.png
+2024-08-26 20:01:22,525 - INFO - Loaded image: 0045.png
+2024-08-26 20:01:22,525 - INFO - Loaded image: 0046.png
+2024-08-26 20:01:22,525 - INFO - Loaded image: 0047.png
+2024-08-26 20:01:22,525 - INFO - Loaded image: 0048.png
+2024-08-26 20:01:22,526 - INFO - Loaded image: 0049.png
+2024-08-26 20:01:22,526 - INFO - Loaded image: 0050.png
+2024-08-26 20:01:22,526 - INFO - Loaded image: 0051.png
+2024-08-26 20:01:22,526 - INFO - Loaded image: 0052.png
+2024-08-26 20:01:22,527 - INFO - Loaded image: 0053.png
+2024-08-26 20:01:22,527 - INFO - Loaded image: 0054.png
+2024-08-26 20:01:22,527 - INFO - Loaded image: 0055.png
+2024-08-26 20:01:22,528 - INFO - Loaded image: 0056.png
+2024-08-26 20:01:22,528 - INFO - Loaded image: 0057.png
+2024-08-26 20:01:22,528 - INFO - Loaded image: 0058.png
+2024-08-26 20:01:22,528 - INFO - Loaded image: 0059.png
+2024-08-26 20:01:22,529 - INFO - Loaded image: 0060.png
+2024-08-26 20:01:22,529 - INFO - Loaded image: 0061.png
+2024-08-26 20:01:22,529 - INFO - Loaded image: 0062.png
+2024-08-26 20:01:22,530 - INFO - Loaded image: 0063.png
+2024-08-26 20:01:22,530 - INFO - Loaded image: 0064.png
+2024-08-26 20:01:22,530 - INFO - Loaded image: 0065.png
+2024-08-26 20:01:22,531 - INFO - Loaded image: 0066.png
+2024-08-26 20:01:22,531 - INFO - Loaded image: 0067.png
+2024-08-26 20:01:22,531 - INFO - Loaded image: 0068.png
+2024-08-26 20:01:22,532 - INFO - Loaded image: 0069.png
+2024-08-26 20:01:22,532 - INFO - Loaded image: 0070.png
+2024-08-26 20:01:22,532 - INFO - Loaded image: 0071.png
+2024-08-26 20:01:22,532 - INFO - Loaded image: 0072.png
+2024-08-26 20:01:22,532 - INFO - Loaded image: 0073.png
+2024-08-26 20:01:22,532 - INFO - Grid size: 8x8, Total grid dimensions: 512x512
+2024-08-26 20:01:22,532 - INFO - Created a blank grid image of size 512x512
+2024-08-26 20:01:22,533 - INFO - Resized image 0 to (64, 64)
+2024-08-26 20:01:22,533 - INFO - Pasted image 0 at position (0, 0)
+2024-08-26 20:01:22,534 - INFO - Resized image 1 to (64, 64)
+2024-08-26 20:01:22,534 - INFO - Pasted image 1 at position (64, 0)
+2024-08-26 20:01:22,534 - INFO - Resized image 2 to (64, 64)
+2024-08-26 20:01:22,534 - INFO - Pasted image 2 at position (128, 0)
+2024-08-26 20:01:22,535 - INFO - Resized image 3 to (64, 64)
+2024-08-26 20:01:22,535 - INFO - Pasted image 3 at position (192, 0)
+2024-08-26 20:01:22,536 - INFO - Resized image 4 to (64, 64)
+2024-08-26 20:01:22,536 - INFO - Pasted image 4 at position (256, 0)
+2024-08-26 20:01:22,536 - INFO - Resized image 5 to (64, 64)
+2024-08-26 20:01:22,536 - INFO - Pasted image 5 at position (320, 0)
+2024-08-26 20:01:22,537 - INFO - Resized image 6 to (64, 64)
+2024-08-26 20:01:22,537 - INFO - Pasted image 6 at position (384, 0)
+2024-08-26 20:01:22,538 - INFO - Resized image 7 to (64, 64)
+2024-08-26 20:01:22,538 - INFO - Pasted image 7 at position (448, 0)
+2024-08-26 20:01:22,538 - INFO - Resized image 8 to (64, 64)
+2024-08-26 20:01:22,538 - INFO - Pasted image 8 at position (0, 64)
+2024-08-26 20:01:22,539 - INFO - Resized image 9 to (64, 64)
+2024-08-26 20:01:22,539 - INFO - Pasted image 9 at position (64, 64)
+2024-08-26 20:01:22,539 - INFO - Resized image 10 to (64, 64)
+2024-08-26 20:01:22,540 - INFO - Pasted image 10 at position (128, 64)
+2024-08-26 20:01:22,540 - INFO - Resized image 11 to (64, 64)
+2024-08-26 20:01:22,540 - INFO - Pasted image 11 at position (192, 64)
+2024-08-26 20:01:22,541 - INFO - Resized image 12 to (64, 64)
+2024-08-26 20:01:22,541 - INFO - Pasted image 12 at position (256, 64)
+2024-08-26 20:01:22,541 - INFO - Resized image 13 to (64, 64)
+2024-08-26 20:01:22,541 - INFO - Pasted image 13 at position (320, 64)
+2024-08-26 20:01:22,542 - INFO - Resized image 14 to (64, 64)
+2024-08-26 20:01:22,542 - INFO - Pasted image 14 at position (384, 64)
+2024-08-26 20:01:22,542 - INFO - Resized image 15 to (64, 64)
+2024-08-26 20:01:22,543 - INFO - Pasted image 15 at position (448, 64)
+2024-08-26 20:01:22,544 - INFO - Resized image 16 to (64, 64)
+2024-08-26 20:01:22,544 - INFO - Pasted image 16 at position (0, 128)
+2024-08-26 20:01:22,544 - INFO - Resized image 17 to (64, 64)
+2024-08-26 20:01:22,544 - INFO - Pasted image 17 at position (64, 128)
+2024-08-26 20:01:22,545 - INFO - Resized image 18 to (64, 64)
+2024-08-26 20:01:22,545 - INFO - Pasted image 18 at position (128, 128)
+2024-08-26 20:01:22,545 - INFO - Resized image 19 to (64, 64)
+2024-08-26 20:01:22,546 - INFO - Pasted image 19 at position (192, 128)
+2024-08-26 20:01:22,546 - INFO - Resized image 20 to (64, 64)
+2024-08-26 20:01:22,546 - INFO - Pasted image 20 at position (256, 128)
+2024-08-26 20:01:22,547 - INFO - Resized image 21 to (64, 64)
+2024-08-26 20:01:22,547 - INFO - Pasted image 21 at position (320, 128)
+2024-08-26 20:01:22,547 - INFO - Resized image 22 to (64, 64)
+2024-08-26 20:01:22,547 - INFO - Pasted image 22 at position (384, 128)
+2024-08-26 20:01:22,548 - INFO - Resized image 23 to (64, 64)
+2024-08-26 20:01:22,548 - INFO - Pasted image 23 at position (448, 128)
+2024-08-26 20:01:22,548 - INFO - Resized image 24 to (64, 64)
+2024-08-26 20:01:22,548 - INFO - Pasted image 24 at position (0, 192)
+2024-08-26 20:01:22,549 - INFO - Resized image 25 to (64, 64)
+2024-08-26 20:01:22,549 - INFO - Pasted image 25 at position (64, 192)
+2024-08-26 20:01:22,549 - INFO - Resized image 26 to (64, 64)
+2024-08-26 20:01:22,550 - INFO - Pasted image 26 at position (128, 192)
+2024-08-26 20:01:22,550 - INFO - Resized image 27 to (64, 64)
+2024-08-26 20:01:22,550 - INFO - Pasted image 27 at position (192, 192)
+2024-08-26 20:01:22,551 - INFO - Resized image 28 to (64, 64)
+2024-08-26 20:01:22,551 - INFO - Pasted image 28 at position (256, 192)
+2024-08-26 20:01:22,551 - INFO - Resized image 29 to (64, 64)
+2024-08-26 20:01:22,551 - INFO - Pasted image 29 at position (320, 192)
+2024-08-26 20:01:22,552 - INFO - Resized image 30 to (64, 64)
+2024-08-26 20:01:22,552 - INFO - Pasted image 30 at position (384, 192)
+2024-08-26 20:01:22,552 - INFO - Resized image 31 to (64, 64)
+2024-08-26 20:01:22,552 - INFO - Pasted image 31 at position (448, 192)
+2024-08-26 20:01:22,552 - INFO - Resized image 32 to (64, 64)
+2024-08-26 20:01:22,552 - INFO - Pasted image 32 at position (0, 256)
+2024-08-26 20:01:22,553 - INFO - Resized image 33 to (64, 64)
+2024-08-26 20:01:22,553 - INFO - Pasted image 33 at position (64, 256)
+2024-08-26 20:01:22,554 - INFO - Resized image 34 to (64, 64)
+2024-08-26 20:01:22,554 - INFO - Pasted image 34 at position (128, 256)
+2024-08-26 20:01:22,554 - INFO - Resized image 35 to (64, 64)
+2024-08-26 20:01:22,554 - INFO - Pasted image 35 at position (192, 256)
+2024-08-26 20:01:22,555 - INFO - Resized image 36 to (64, 64)
+2024-08-26 20:01:22,555 - INFO - Pasted image 36 at position (256, 256)
+2024-08-26 20:01:22,555 - INFO - Resized image 37 to (64, 64)
+2024-08-26 20:01:22,555 - INFO - Pasted image 37 at position (320, 256)
+2024-08-26 20:01:22,557 - INFO - Resized image 38 to (64, 64)
+2024-08-26 20:01:22,557 - INFO - Pasted image 38 at position (384, 256)
+2024-08-26 20:01:22,557 - INFO - Resized image 39 to (64, 64)
+2024-08-26 20:01:22,557 - INFO - Pasted image 39 at position (448, 256)
+2024-08-26 20:01:22,558 - INFO - Resized image 40 to (64, 64)
+2024-08-26 20:01:22,558 - INFO - Pasted image 40 at position (0, 320)
+2024-08-26 20:01:22,558 - INFO - Resized image 41 to (64, 64)
+2024-08-26 20:01:22,558 - INFO - Pasted image 41 at position (64, 320)
+2024-08-26 20:01:22,559 - INFO - Resized image 42 to (64, 64)
+2024-08-26 20:01:22,559 - INFO - Pasted image 42 at position (128, 320)
+2024-08-26 20:01:22,559 - INFO - Resized image 43 to (64, 64)
+2024-08-26 20:01:22,559 - INFO - Pasted image 43 at position (192, 320)
+2024-08-26 20:01:22,560 - INFO - Resized image 44 to (64, 64)
+2024-08-26 20:01:22,560 - INFO - Pasted image 44 at position (256, 320)
+2024-08-26 20:01:22,561 - INFO - Resized image 45 to (64, 64)
+2024-08-26 20:01:22,561 - INFO - Pasted image 45 at position (320, 320)
+2024-08-26 20:01:22,561 - INFO - Resized image 46 to (64, 64)
+2024-08-26 20:01:22,561 - INFO - Pasted image 46 at position (384, 320)
+2024-08-26 20:01:22,562 - INFO - Resized image 47 to (64, 64)
+2024-08-26 20:01:22,562 - INFO - Pasted image 47 at position (448, 320)
+2024-08-26 20:01:22,562 - INFO - Resized image 48 to (64, 64)
+2024-08-26 20:01:22,562 - INFO - Pasted image 48 at position (0, 384)
+2024-08-26 20:01:22,562 - INFO - Resized image 49 to (64, 64)
+2024-08-26 20:01:22,562 - INFO - Pasted image 49 at position (64, 384)
+2024-08-26 20:01:22,563 - INFO - Resized image 50 to (64, 64)
+2024-08-26 20:01:22,563 - INFO - Pasted image 50 at position (128, 384)
+2024-08-26 20:01:22,564 - INFO - Resized image 51 to (64, 64)
+2024-08-26 20:01:22,564 - INFO - Pasted image 51 at position (192, 384)
+2024-08-26 20:01:22,564 - INFO - Resized image 52 to (64, 64)
+2024-08-26 20:01:22,564 - INFO - Pasted image 52 at position (256, 384)
+2024-08-26 20:01:22,565 - INFO - Resized image 53 to (64, 64)
+2024-08-26 20:01:22,565 - INFO - Pasted image 53 at position (320, 384)
+2024-08-26 20:01:22,565 - INFO - Resized image 54 to (64, 64)
+2024-08-26 20:01:22,565 - INFO - Pasted image 54 at position (384, 384)
+2024-08-26 20:01:22,566 - INFO - Resized image 55 to (64, 64)
+2024-08-26 20:01:22,566 - INFO - Pasted image 55 at position (448, 384)
+2024-08-26 20:01:22,566 - INFO - Resized image 56 to (64, 64)
+2024-08-26 20:01:22,566 - INFO - Pasted image 56 at position (0, 448)
+2024-08-26 20:01:22,567 - INFO - Resized image 57 to (64, 64)
+2024-08-26 20:01:22,567 - INFO - Pasted image 57 at position (64, 448)
+2024-08-26 20:01:22,567 - INFO - Resized image 58 to (64, 64)
+2024-08-26 20:01:22,568 - INFO - Pasted image 58 at position (128, 448)
+2024-08-26 20:01:22,568 - INFO - Resized image 59 to (64, 64)
+2024-08-26 20:01:22,568 - INFO - Pasted image 59 at position (192, 448)
+2024-08-26 20:01:22,569 - INFO - Resized image 60 to (64, 64)
+2024-08-26 20:01:22,569 - INFO - Pasted image 60 at position (256, 448)
+2024-08-26 20:01:22,569 - INFO - Resized image 61 to (64, 64)
+2024-08-26 20:01:22,569 - INFO - Pasted image 61 at position (320, 448)
+2024-08-26 20:01:22,570 - INFO - Resized image 62 to (64, 64)
+2024-08-26 20:01:22,570 - INFO - Pasted image 62 at position (384, 448)
+2024-08-26 20:01:22,570 - INFO - Resized image 63 to (64, 64)
+2024-08-26 20:01:22,570 - INFO - Pasted image 63 at position (448, 448)
+2024-08-26 20:01:22,590 - INFO - Successfully saved the SubUV texture to output_subuv_texture.png
+2024-08-26 20:05:19,988 - INFO - Logging has started.
+2024-08-26 20:05:19,988 - INFO - Starting SubUV texture creation. Input folder: ./images, Output file: output_subuv_texture.png
+2024-08-26 20:05:20,003 - INFO - Loaded image: 0010.png
+2024-08-26 20:05:20,003 - INFO - Loaded image: 0011.png
+2024-08-26 20:05:20,003 - INFO - Loaded image: 0012.png
+2024-08-26 20:05:20,003 - INFO - Loaded image: 0013.png
+2024-08-26 20:05:20,005 - INFO - Loaded image: 0014.png
+2024-08-26 20:05:20,005 - INFO - Loaded image: 0015.png
+2024-08-26 20:05:20,005 - INFO - Loaded image: 0016.png
+2024-08-26 20:05:20,005 - INFO - Loaded image: 0017.png
+2024-08-26 20:05:20,006 - INFO - Loaded image: 0018.png
+2024-08-26 20:05:20,006 - INFO - Loaded image: 0019.png
+2024-08-26 20:05:20,006 - INFO - Loaded image: 0020.png
+2024-08-26 20:05:20,006 - INFO - Loaded image: 0021.png
+2024-08-26 20:05:20,007 - INFO - Loaded image: 0022.png
+2024-08-26 20:05:20,007 - INFO - Loaded image: 0023.png
+2024-08-26 20:05:20,007 - INFO - Loaded image: 0024.png
+2024-08-26 20:05:20,008 - INFO - Loaded image: 0025.png
+2024-08-26 20:05:20,008 - INFO - Loaded image: 0026.png
+2024-08-26 20:05:20,008 - INFO - Loaded image: 0027.png
+2024-08-26 20:05:20,008 - INFO - Loaded image: 0028.png
+2024-08-26 20:05:20,009 - INFO - Loaded image: 0029.png
+2024-08-26 20:05:20,009 - INFO - Loaded image: 0030.png
+2024-08-26 20:05:20,009 - INFO - Loaded image: 0031.png
+2024-08-26 20:05:20,009 - INFO - Loaded image: 0032.png
+2024-08-26 20:05:20,010 - INFO - Loaded image: 0033.png
+2024-08-26 20:05:20,010 - INFO - Loaded image: 0034.png
+2024-08-26 20:05:20,010 - INFO - Loaded image: 0035.png
+2024-08-26 20:05:20,011 - INFO - Loaded image: 0036.png
+2024-08-26 20:05:20,011 - INFO - Loaded image: 0037.png
+2024-08-26 20:05:20,011 - INFO - Loaded image: 0038.png
+2024-08-26 20:05:20,012 - INFO - Loaded image: 0039.png
+2024-08-26 20:05:20,012 - INFO - Loaded image: 0040.png
+2024-08-26 20:05:20,012 - INFO - Loaded image: 0041.png
+2024-08-26 20:05:20,013 - INFO - Loaded image: 0042.png
+2024-08-26 20:05:20,013 - INFO - Loaded image: 0043.png
+2024-08-26 20:05:20,013 - INFO - Loaded image: 0044.png
+2024-08-26 20:05:20,013 - INFO - Loaded image: 0045.png
+2024-08-26 20:05:20,014 - INFO - Loaded image: 0046.png
+2024-08-26 20:05:20,014 - INFO - Loaded image: 0047.png
+2024-08-26 20:05:20,014 - INFO - Loaded image: 0048.png
+2024-08-26 20:05:20,015 - INFO - Loaded image: 0049.png
+2024-08-26 20:05:20,015 - INFO - Loaded image: 0050.png
+2024-08-26 20:05:20,015 - INFO - Loaded image: 0051.png
+2024-08-26 20:05:20,016 - INFO - Loaded image: 0052.png
+2024-08-26 20:05:20,016 - INFO - Loaded image: 0053.png
+2024-08-26 20:05:20,016 - INFO - Loaded image: 0054.png
+2024-08-26 20:05:20,016 - INFO - Loaded image: 0055.png
+2024-08-26 20:05:20,017 - INFO - Loaded image: 0056.png
+2024-08-26 20:05:20,017 - INFO - Loaded image: 0057.png
+2024-08-26 20:05:20,017 - INFO - Loaded image: 0058.png
+2024-08-26 20:05:20,017 - INFO - Loaded image: 0059.png
+2024-08-26 20:05:20,018 - INFO - Loaded image: 0060.png
+2024-08-26 20:05:20,018 - INFO - Loaded image: 0061.png
+2024-08-26 20:05:20,018 - INFO - Loaded image: 0062.png
+2024-08-26 20:05:20,018 - INFO - Loaded image: 0063.png
+2024-08-26 20:05:20,019 - INFO - Loaded image: 0064.png
+2024-08-26 20:05:20,019 - INFO - Loaded image: 0065.png
+2024-08-26 20:05:20,019 - INFO - Loaded image: 0066.png
+2024-08-26 20:05:20,020 - INFO - Loaded image: 0067.png
+2024-08-26 20:05:20,020 - INFO - Loaded image: 0068.png
+2024-08-26 20:05:20,020 - INFO - Loaded image: 0069.png
+2024-08-26 20:05:20,021 - INFO - Loaded image: 0070.png
+2024-08-26 20:05:20,021 - INFO - Loaded image: 0071.png
+2024-08-26 20:05:20,021 - INFO - Loaded image: 0072.png
+2024-08-26 20:05:20,021 - INFO - Loaded image: 0073.png
+2024-08-26 20:05:20,022 - INFO - Grid size: 8x8, Total grid dimensions: 512x512
+2024-08-26 20:05:20,023 - INFO - Created a blank grid image of size 512x512
+2024-08-26 20:05:20,024 - INFO - Resized image 0 to (64, 64)
+2024-08-26 20:05:20,024 - INFO - Pasted image 0 at position (0, 0)
+2024-08-26 20:05:20,024 - INFO - Resized image 1 to (64, 64)
+2024-08-26 20:05:20,025 - INFO - Pasted image 1 at position (64, 0)
+2024-08-26 20:05:20,025 - INFO - Resized image 2 to (64, 64)
+2024-08-26 20:05:20,025 - INFO - Pasted image 2 at position (128, 0)
+2024-08-26 20:05:20,026 - INFO - Resized image 3 to (64, 64)
+2024-08-26 20:05:20,026 - INFO - Pasted image 3 at position (192, 0)
+2024-08-26 20:05:20,027 - INFO - Resized image 4 to (64, 64)
+2024-08-26 20:05:20,027 - INFO - Pasted image 4 at position (256, 0)
+2024-08-26 20:05:20,027 - INFO - Resized image 5 to (64, 64)
+2024-08-26 20:05:20,028 - INFO - Pasted image 5 at position (320, 0)
+2024-08-26 20:05:20,028 - INFO - Resized image 6 to (64, 64)
+2024-08-26 20:05:20,028 - INFO - Pasted image 6 at position (384, 0)
+2024-08-26 20:05:20,029 - INFO - Resized image 7 to (64, 64)
+2024-08-26 20:05:20,029 - INFO - Pasted image 7 at position (448, 0)
+2024-08-26 20:05:20,029 - INFO - Resized image 8 to (64, 64)
+2024-08-26 20:05:20,029 - INFO - Pasted image 8 at position (0, 64)
+2024-08-26 20:05:20,030 - INFO - Resized image 9 to (64, 64)
+2024-08-26 20:05:20,030 - INFO - Pasted image 9 at position (64, 64)
+2024-08-26 20:05:20,031 - INFO - Resized image 10 to (64, 64)
+2024-08-26 20:05:20,031 - INFO - Pasted image 10 at position (128, 64)
+2024-08-26 20:05:20,031 - INFO - Resized image 11 to (64, 64)
+2024-08-26 20:05:20,031 - INFO - Pasted image 11 at position (192, 64)
+2024-08-26 20:05:20,032 - INFO - Resized image 12 to (64, 64)
+2024-08-26 20:05:20,032 - INFO - Pasted image 12 at position (256, 64)
+2024-08-26 20:05:20,032 - INFO - Resized image 13 to (64, 64)
+2024-08-26 20:05:20,032 - INFO - Pasted image 13 at position (320, 64)
+2024-08-26 20:05:20,032 - INFO - Resized image 14 to (64, 64)
+2024-08-26 20:05:20,032 - INFO - Pasted image 14 at position (384, 64)
+2024-08-26 20:05:20,033 - INFO - Resized image 15 to (64, 64)
+2024-08-26 20:05:20,033 - INFO - Pasted image 15 at position (448, 64)
+2024-08-26 20:05:20,034 - INFO - Resized image 16 to (64, 64)
+2024-08-26 20:05:20,034 - INFO - Pasted image 16 at position (0, 128)
+2024-08-26 20:05:20,034 - INFO - Resized image 17 to (64, 64)
+2024-08-26 20:05:20,034 - INFO - Pasted image 17 at position (64, 128)
+2024-08-26 20:05:20,035 - INFO - Resized image 18 to (64, 64)
+2024-08-26 20:05:20,035 - INFO - Pasted image 18 at position (128, 128)
+2024-08-26 20:05:20,036 - INFO - Resized image 19 to (64, 64)
+2024-08-26 20:05:20,036 - INFO - Pasted image 19 at position (192, 128)
+2024-08-26 20:05:20,036 - INFO - Resized image 20 to (64, 64)
+2024-08-26 20:05:20,036 - INFO - Pasted image 20 at position (256, 128)
+2024-08-26 20:05:20,037 - INFO - Resized image 21 to (64, 64)
+2024-08-26 20:05:20,037 - INFO - Pasted image 21 at position (320, 128)
+2024-08-26 20:05:20,037 - INFO - Resized image 22 to (64, 64)
+2024-08-26 20:05:20,037 - INFO - Pasted image 22 at position (384, 128)
+2024-08-26 20:05:20,038 - INFO - Resized image 23 to (64, 64)
+2024-08-26 20:05:20,038 - INFO - Pasted image 23 at position (448, 128)
+2024-08-26 20:05:20,038 - INFO - Resized image 24 to (64, 64)
+2024-08-26 20:05:20,038 - INFO - Pasted image 24 at position (0, 192)
+2024-08-26 20:05:20,039 - INFO - Resized image 25 to (64, 64)
+2024-08-26 20:05:20,039 - INFO - Pasted image 25 at position (64, 192)
+2024-08-26 20:05:20,040 - INFO - Resized image 26 to (64, 64)
+2024-08-26 20:05:20,040 - INFO - Pasted image 26 at position (128, 192)
+2024-08-26 20:05:20,040 - INFO - Resized image 27 to (64, 64)
+2024-08-26 20:05:20,040 - INFO - Pasted image 27 at position (192, 192)
+2024-08-26 20:05:20,041 - INFO - Resized image 28 to (64, 64)
+2024-08-26 20:05:20,041 - INFO - Pasted image 28 at position (256, 192)
+2024-08-26 20:05:20,042 - INFO - Resized image 29 to (64, 64)
+2024-08-26 20:05:20,042 - INFO - Pasted image 29 at position (320, 192)
+2024-08-26 20:05:20,042 - INFO - Resized image 30 to (64, 64)
+2024-08-26 20:05:20,042 - INFO - Pasted image 30 at position (384, 192)
+2024-08-26 20:05:20,043 - INFO - Resized image 31 to (64, 64)
+2024-08-26 20:05:20,043 - INFO - Pasted image 31 at position (448, 192)
+2024-08-26 20:05:20,044 - INFO - Resized image 32 to (64, 64)
+2024-08-26 20:05:20,044 - INFO - Pasted image 32 at position (0, 256)
+2024-08-26 20:05:20,044 - INFO - Resized image 33 to (64, 64)
+2024-08-26 20:05:20,045 - INFO - Pasted image 33 at position (64, 256)
+2024-08-26 20:05:20,045 - INFO - Resized image 34 to (64, 64)
+2024-08-26 20:05:20,045 - INFO - Pasted image 34 at position (128, 256)
+2024-08-26 20:05:20,046 - INFO - Resized image 35 to (64, 64)
+2024-08-26 20:05:20,046 - INFO - Pasted image 35 at position (192, 256)
+2024-08-26 20:05:20,047 - INFO - Resized image 36 to (64, 64)
+2024-08-26 20:05:20,047 - INFO - Pasted image 36 at position (256, 256)
+2024-08-26 20:05:20,047 - INFO - Resized image 37 to (64, 64)
+2024-08-26 20:05:20,047 - INFO - Pasted image 37 at position (320, 256)
+2024-08-26 20:05:20,048 - INFO - Resized image 38 to (64, 64)
+2024-08-26 20:05:20,048 - INFO - Pasted image 38 at position (384, 256)
+2024-08-26 20:05:20,048 - INFO - Resized image 39 to (64, 64)
+2024-08-26 20:05:20,049 - INFO - Pasted image 39 at position (448, 256)
+2024-08-26 20:05:20,049 - INFO - Resized image 40 to (64, 64)
+2024-08-26 20:05:20,049 - INFO - Pasted image 40 at position (0, 320)
+2024-08-26 20:05:20,050 - INFO - Resized image 41 to (64, 64)
+2024-08-26 20:05:20,050 - INFO - Pasted image 41 at position (64, 320)
+2024-08-26 20:05:20,050 - INFO - Resized image 42 to (64, 64)
+2024-08-26 20:05:20,050 - INFO - Pasted image 42 at position (128, 320)
+2024-08-26 20:05:20,051 - INFO - Resized image 43 to (64, 64)
+2024-08-26 20:05:20,051 - INFO - Pasted image 43 at position (192, 320)
+2024-08-26 20:05:20,052 - INFO - Resized image 44 to (64, 64)
+2024-08-26 20:05:20,052 - INFO - Pasted image 44 at position (256, 320)
+2024-08-26 20:05:20,052 - INFO - Resized image 45 to (64, 64)
+2024-08-26 20:05:20,052 - INFO - Pasted image 45 at position (320, 320)
+2024-08-26 20:05:20,053 - INFO - Resized image 46 to (64, 64)
+2024-08-26 20:05:20,053 - INFO - Pasted image 46 at position (384, 320)
+2024-08-26 20:05:20,053 - INFO - Resized image 47 to (64, 64)
+2024-08-26 20:05:20,053 - INFO - Pasted image 47 at position (448, 320)
+2024-08-26 20:05:20,054 - INFO - Resized image 48 to (64, 64)
+2024-08-26 20:05:20,054 - INFO - Pasted image 48 at position (0, 384)
+2024-08-26 20:05:20,055 - INFO - Resized image 49 to (64, 64)
+2024-08-26 20:05:20,055 - INFO - Pasted image 49 at position (64, 384)
+2024-08-26 20:05:20,055 - INFO - Resized image 50 to (64, 64)
+2024-08-26 20:05:20,055 - INFO - Pasted image 50 at position (128, 384)
+2024-08-26 20:05:20,056 - INFO - Resized image 51 to (64, 64)
+2024-08-26 20:05:20,056 - INFO - Pasted image 51 at position (192, 384)
+2024-08-26 20:05:20,057 - INFO - Resized image 52 to (64, 64)
+2024-08-26 20:05:20,057 - INFO - Pasted image 52 at position (256, 384)
+2024-08-26 20:05:20,058 - INFO - Resized image 53 to (64, 64)
+2024-08-26 20:05:20,058 - INFO - Pasted image 53 at position (320, 384)
+2024-08-26 20:05:20,058 - INFO - Resized image 54 to (64, 64)
+2024-08-26 20:05:20,058 - INFO - Pasted image 54 at position (384, 384)
+2024-08-26 20:05:20,059 - INFO - Resized image 55 to (64, 64)
+2024-08-26 20:05:20,059 - INFO - Pasted image 55 at position (448, 384)
+2024-08-26 20:05:20,060 - INFO - Resized image 56 to (64, 64)
+2024-08-26 20:05:20,060 - INFO - Pasted image 56 at position (0, 448)
+2024-08-26 20:05:20,060 - INFO - Resized image 57 to (64, 64)
+2024-08-26 20:05:20,060 - INFO - Pasted image 57 at position (64, 448)
+2024-08-26 20:05:20,061 - INFO - Resized image 58 to (64, 64)
+2024-08-26 20:05:20,061 - INFO - Pasted image 58 at position (128, 448)
+2024-08-26 20:05:20,062 - INFO - Resized image 59 to (64, 64)
+2024-08-26 20:05:20,062 - INFO - Pasted image 59 at position (192, 448)
+2024-08-26 20:05:20,063 - INFO - Resized image 60 to (64, 64)
+2024-08-26 20:05:20,063 - INFO - Pasted image 60 at position (256, 448)
+2024-08-26 20:05:20,064 - INFO - Resized image 61 to (64, 64)
+2024-08-26 20:05:20,064 - INFO - Pasted image 61 at position (320, 448)
+2024-08-26 20:05:20,064 - INFO - Resized image 62 to (64, 64)
+2024-08-26 20:05:20,065 - INFO - Pasted image 62 at position (384, 448)
+2024-08-26 20:05:20,065 - INFO - Resized image 63 to (64, 64)
+2024-08-26 20:05:20,065 - INFO - Pasted image 63 at position (448, 448)
+2024-08-26 20:05:20,085 - INFO - Successfully saved the SubUV texture to output_subuv_texture.png
+2024-08-26 20:07:33,214 - INFO - Logging has started.
+2024-08-26 20:07:33,214 - INFO - Starting SubUV texture creation. Input folder: ./images, Output file: output_subuv_texture.png
+2024-08-26 20:07:33,228 - INFO - Loaded image: 0010.png
+2024-08-26 20:07:33,228 - INFO - Loaded image: 0011.png
+2024-08-26 20:07:33,228 - INFO - Loaded image: 0012.png
+2024-08-26 20:07:33,229 - INFO - Loaded image: 0013.png
+2024-08-26 20:07:33,229 - INFO - Loaded image: 0014.png
+2024-08-26 20:07:33,229 - INFO - Loaded image: 0015.png
+2024-08-26 20:07:33,229 - INFO - Loaded image: 0016.png
+2024-08-26 20:07:33,230 - INFO - Loaded image: 0017.png
+2024-08-26 20:07:33,230 - INFO - Loaded image: 0018.png
+2024-08-26 20:07:33,230 - INFO - Loaded image: 0019.png
+2024-08-26 20:07:33,230 - INFO - Loaded image: 0020.png
+2024-08-26 20:07:33,231 - INFO - Loaded image: 0021.png
+2024-08-26 20:07:33,231 - INFO - Loaded image: 0022.png
+2024-08-26 20:07:33,231 - INFO - Loaded image: 0023.png
+2024-08-26 20:07:33,231 - INFO - Loaded image: 0024.png
+2024-08-26 20:07:33,231 - INFO - Loaded image: 0025.png
+2024-08-26 20:07:33,232 - INFO - Loaded image: 0026.png
+2024-08-26 20:07:33,232 - INFO - Loaded image: 0027.png
+2024-08-26 20:07:33,232 - INFO - Loaded image: 0028.png
+2024-08-26 20:07:33,232 - INFO - Loaded image: 0029.png
+2024-08-26 20:07:33,233 - INFO - Loaded image: 0030.png
+2024-08-26 20:07:33,233 - INFO - Loaded image: 0031.png
+2024-08-26 20:07:33,233 - INFO - Loaded image: 0032.png
+2024-08-26 20:07:33,233 - INFO - Loaded image: 0033.png
+2024-08-26 20:07:33,234 - INFO - Loaded image: 0034.png
+2024-08-26 20:07:33,234 - INFO - Loaded image: 0035.png
+2024-08-26 20:07:33,234 - INFO - Loaded image: 0036.png
+2024-08-26 20:07:33,234 - INFO - Loaded image: 0037.png
+2024-08-26 20:07:33,234 - INFO - Loaded image: 0038.png
+2024-08-26 20:07:33,234 - INFO - Loaded image: 0039.png
+2024-08-26 20:07:33,235 - INFO - Loaded image: 0040.png
+2024-08-26 20:07:33,235 - INFO - Loaded image: 0041.png
+2024-08-26 20:07:33,235 - INFO - Loaded image: 0042.png
+2024-08-26 20:07:33,236 - INFO - Loaded image: 0043.png
+2024-08-26 20:07:33,236 - INFO - Loaded image: 0044.png
+2024-08-26 20:07:33,236 - INFO - Loaded image: 0045.png
+2024-08-26 20:07:33,236 - INFO - Loaded image: 0046.png
+2024-08-26 20:07:33,237 - INFO - Loaded image: 0047.png
+2024-08-26 20:07:33,237 - INFO - Loaded image: 0048.png
+2024-08-26 20:07:33,237 - INFO - Loaded image: 0049.png
+2024-08-26 20:07:33,237 - INFO - Loaded image: 0050.png
+2024-08-26 20:07:33,238 - INFO - Loaded image: 0051.png
+2024-08-26 20:07:33,238 - INFO - Loaded image: 0052.png
+2024-08-26 20:07:33,238 - INFO - Loaded image: 0053.png
+2024-08-26 20:07:33,238 - INFO - Loaded image: 0054.png
+2024-08-26 20:07:33,239 - INFO - Loaded image: 0055.png
+2024-08-26 20:07:33,239 - INFO - Loaded image: 0056.png
+2024-08-26 20:07:33,239 - INFO - Loaded image: 0057.png
+2024-08-26 20:07:33,239 - INFO - Loaded image: 0058.png
+2024-08-26 20:07:33,240 - INFO - Loaded image: 0059.png
+2024-08-26 20:07:33,240 - INFO - Loaded image: 0060.png
+2024-08-26 20:07:33,240 - INFO - Loaded image: 0061.png
+2024-08-26 20:07:33,240 - INFO - Loaded image: 0062.png
+2024-08-26 20:07:33,240 - INFO - Loaded image: 0063.png
+2024-08-26 20:07:33,241 - INFO - Loaded image: 0064.png
+2024-08-26 20:07:33,241 - INFO - Loaded image: 0065.png
+2024-08-26 20:07:33,241 - INFO - Loaded image: 0066.png
+2024-08-26 20:07:33,241 - INFO - Loaded image: 0067.png
+2024-08-26 20:07:33,242 - INFO - Loaded image: 0068.png
+2024-08-26 20:07:33,242 - INFO - Loaded image: 0069.png
+2024-08-26 20:07:33,242 - INFO - Loaded image: 0070.png
+2024-08-26 20:07:33,242 - INFO - Loaded image: 0071.png
+2024-08-26 20:07:33,242 - INFO - Loaded image: 0072.png
+2024-08-26 20:07:33,242 - INFO - Loaded image: 0073.png
+2024-08-26 20:07:33,242 - INFO - Grid size: 8x8, Total grid dimensions: 512x512
+2024-08-26 20:07:33,244 - INFO - Created a blank grid image of size 512x512
+2024-08-26 20:07:33,244 - INFO - Resized image 0 to (64, 64)
+2024-08-26 20:07:33,244 - INFO - Pasted image 0 at position (0, 0)
+2024-08-26 20:07:33,245 - INFO - Resized image 1 to (64, 64)
+2024-08-26 20:07:33,245 - INFO - Pasted image 1 at position (64, 0)
+2024-08-26 20:07:33,245 - INFO - Resized image 2 to (64, 64)
+2024-08-26 20:07:33,246 - INFO - Pasted image 2 at position (128, 0)
+2024-08-26 20:07:33,246 - INFO - Resized image 3 to (64, 64)
+2024-08-26 20:07:33,246 - INFO - Pasted image 3 at position (192, 0)
+2024-08-26 20:07:33,247 - INFO - Resized image 4 to (64, 64)
+2024-08-26 20:07:33,247 - INFO - Pasted image 4 at position (256, 0)
+2024-08-26 20:07:33,247 - INFO - Resized image 5 to (64, 64)
+2024-08-26 20:07:33,247 - INFO - Pasted image 5 at position (320, 0)
+2024-08-26 20:07:33,248 - INFO - Resized image 6 to (64, 64)
+2024-08-26 20:07:33,248 - INFO - Pasted image 6 at position (384, 0)
+2024-08-26 20:07:33,248 - INFO - Resized image 7 to (64, 64)
+2024-08-26 20:07:33,248 - INFO - Pasted image 7 at position (448, 0)
+2024-08-26 20:07:33,249 - INFO - Resized image 8 to (64, 64)
+2024-08-26 20:07:33,249 - INFO - Pasted image 8 at position (0, 64)
+2024-08-26 20:07:33,249 - INFO - Resized image 9 to (64, 64)
+2024-08-26 20:07:33,249 - INFO - Pasted image 9 at position (64, 64)
+2024-08-26 20:07:33,250 - INFO - Resized image 10 to (64, 64)
+2024-08-26 20:07:33,250 - INFO - Pasted image 10 at position (128, 64)
+2024-08-26 20:07:33,250 - INFO - Resized image 11 to (64, 64)
+2024-08-26 20:07:33,250 - INFO - Pasted image 11 at position (192, 64)
+2024-08-26 20:07:33,251 - INFO - Resized image 12 to (64, 64)
+2024-08-26 20:07:33,251 - INFO - Pasted image 12 at position (256, 64)
+2024-08-26 20:07:33,251 - INFO - Resized image 13 to (64, 64)
+2024-08-26 20:07:33,251 - INFO - Pasted image 13 at position (320, 64)
+2024-08-26 20:07:33,252 - INFO - Resized image 14 to (64, 64)
+2024-08-26 20:07:33,252 - INFO - Pasted image 14 at position (384, 64)
+2024-08-26 20:07:33,252 - INFO - Resized image 15 to (64, 64)
+2024-08-26 20:07:33,252 - INFO - Pasted image 15 at position (448, 64)
+2024-08-26 20:07:33,252 - INFO - Resized image 16 to (64, 64)
+2024-08-26 20:07:33,253 - INFO - Pasted image 16 at position (0, 128)
+2024-08-26 20:07:33,253 - INFO - Resized image 17 to (64, 64)
+2024-08-26 20:07:33,253 - INFO - Pasted image 17 at position (64, 128)
+2024-08-26 20:07:33,254 - INFO - Resized image 18 to (64, 64)
+2024-08-26 20:07:33,254 - INFO - Pasted image 18 at position (128, 128)
+2024-08-26 20:07:33,254 - INFO - Resized image 19 to (64, 64)
+2024-08-26 20:07:33,254 - INFO - Pasted image 19 at position (192, 128)
+2024-08-26 20:07:33,255 - INFO - Resized image 20 to (64, 64)
+2024-08-26 20:07:33,255 - INFO - Pasted image 20 at position (256, 128)
+2024-08-26 20:07:33,255 - INFO - Resized image 21 to (64, 64)
+2024-08-26 20:07:33,255 - INFO - Pasted image 21 at position (320, 128)
+2024-08-26 20:07:33,256 - INFO - Resized image 22 to (64, 64)
+2024-08-26 20:07:33,256 - INFO - Pasted image 22 at position (384, 128)
+2024-08-26 20:07:33,256 - INFO - Resized image 23 to (64, 64)
+2024-08-26 20:07:33,256 - INFO - Pasted image 23 at position (448, 128)
+2024-08-26 20:07:33,257 - INFO - Resized image 24 to (64, 64)
+2024-08-26 20:07:33,257 - INFO - Pasted image 24 at position (0, 192)
+2024-08-26 20:07:33,257 - INFO - Resized image 25 to (64, 64)
+2024-08-26 20:07:33,257 - INFO - Pasted image 25 at position (64, 192)
+2024-08-26 20:07:33,258 - INFO - Resized image 26 to (64, 64)
+2024-08-26 20:07:33,258 - INFO - Pasted image 26 at position (128, 192)
+2024-08-26 20:07:33,258 - INFO - Resized image 27 to (64, 64)
+2024-08-26 20:07:33,258 - INFO - Pasted image 27 at position (192, 192)
+2024-08-26 20:07:33,259 - INFO - Resized image 28 to (64, 64)
+2024-08-26 20:07:33,259 - INFO - Pasted image 28 at position (256, 192)
+2024-08-26 20:07:33,259 - INFO - Resized image 29 to (64, 64)
+2024-08-26 20:07:33,259 - INFO - Pasted image 29 at position (320, 192)
+2024-08-26 20:07:33,260 - INFO - Resized image 30 to (64, 64)
+2024-08-26 20:07:33,260 - INFO - Pasted image 30 at position (384, 192)
+2024-08-26 20:07:33,260 - INFO - Resized image 31 to (64, 64)
+2024-08-26 20:07:33,260 - INFO - Pasted image 31 at position (448, 192)
+2024-08-26 20:07:33,261 - INFO - Resized image 32 to (64, 64)
+2024-08-26 20:07:33,261 - INFO - Pasted image 32 at position (0, 256)
+2024-08-26 20:07:33,261 - INFO - Resized image 33 to (64, 64)
+2024-08-26 20:07:33,261 - INFO - Pasted image 33 at position (64, 256)
+2024-08-26 20:07:33,262 - INFO - Resized image 34 to (64, 64)
+2024-08-26 20:07:33,262 - INFO - Pasted image 34 at position (128, 256)
+2024-08-26 20:07:33,263 - INFO - Resized image 35 to (64, 64)
+2024-08-26 20:07:33,263 - INFO - Pasted image 35 at position (192, 256)
+2024-08-26 20:07:33,263 - INFO - Resized image 36 to (64, 64)
+2024-08-26 20:07:33,263 - INFO - Pasted image 36 at position (256, 256)
+2024-08-26 20:07:33,264 - INFO - Resized image 37 to (64, 64)
+2024-08-26 20:07:33,264 - INFO - Pasted image 37 at position (320, 256)
+2024-08-26 20:07:33,265 - INFO - Resized image 38 to (64, 64)
+2024-08-26 20:07:33,265 - INFO - Pasted image 38 at position (384, 256)
+2024-08-26 20:07:33,265 - INFO - Resized image 39 to (64, 64)
+2024-08-26 20:07:33,265 - INFO - Pasted image 39 at position (448, 256)
+2024-08-26 20:07:33,266 - INFO - Resized image 40 to (64, 64)
+2024-08-26 20:07:33,266 - INFO - Pasted image 40 at position (0, 320)
+2024-08-26 20:07:33,267 - INFO - Resized image 41 to (64, 64)
+2024-08-26 20:07:33,267 - INFO - Pasted image 41 at position (64, 320)
+2024-08-26 20:07:33,267 - INFO - Resized image 42 to (64, 64)
+2024-08-26 20:07:33,268 - INFO - Pasted image 42 at position (128, 320)
+2024-08-26 20:07:33,268 - INFO - Resized image 43 to (64, 64)
+2024-08-26 20:07:33,268 - INFO - Pasted image 43 at position (192, 320)
+2024-08-26 20:07:33,269 - INFO - Resized image 44 to (64, 64)
+2024-08-26 20:07:33,269 - INFO - Pasted image 44 at position (256, 320)
+2024-08-26 20:07:33,270 - INFO - Resized image 45 to (64, 64)
+2024-08-26 20:07:33,270 - INFO - Pasted image 45 at position (320, 320)
+2024-08-26 20:07:33,270 - INFO - Resized image 46 to (64, 64)
+2024-08-26 20:07:33,270 - INFO - Pasted image 46 at position (384, 320)
+2024-08-26 20:07:33,271 - INFO - Resized image 47 to (64, 64)
+2024-08-26 20:07:33,271 - INFO - Pasted image 47 at position (448, 320)
+2024-08-26 20:07:33,271 - INFO - Resized image 48 to (64, 64)
+2024-08-26 20:07:33,271 - INFO - Pasted image 48 at position (0, 384)
+2024-08-26 20:07:33,272 - INFO - Resized image 49 to (64, 64)
+2024-08-26 20:07:33,272 - INFO - Pasted image 49 at position (64, 384)
+2024-08-26 20:07:33,273 - INFO - Resized image 50 to (64, 64)
+2024-08-26 20:07:33,273 - INFO - Pasted image 50 at position (128, 384)
+2024-08-26 20:07:33,274 - INFO - Resized image 51 to (64, 64)
+2024-08-26 20:07:33,274 - INFO - Pasted image 51 at position (192, 384)
+2024-08-26 20:07:33,275 - INFO - Resized image 52 to (64, 64)
+2024-08-26 20:07:33,275 - INFO - Pasted image 52 at position (256, 384)
+2024-08-26 20:07:33,275 - INFO - Resized image 53 to (64, 64)
+2024-08-26 20:07:33,275 - INFO - Pasted image 53 at position (320, 384)
+2024-08-26 20:07:33,276 - INFO - Resized image 54 to (64, 64)
+2024-08-26 20:07:33,276 - INFO - Pasted image 54 at position (384, 384)
+2024-08-26 20:07:33,276 - INFO - Resized image 55 to (64, 64)
+2024-08-26 20:07:33,276 - INFO - Pasted image 55 at position (448, 384)
+2024-08-26 20:07:33,277 - INFO - Resized image 56 to (64, 64)
+2024-08-26 20:07:33,277 - INFO - Pasted image 56 at position (0, 448)
+2024-08-26 20:07:33,277 - INFO - Resized image 57 to (64, 64)
+2024-08-26 20:07:33,277 - INFO - Pasted image 57 at position (64, 448)
+2024-08-26 20:07:33,278 - INFO - Resized image 58 to (64, 64)
+2024-08-26 20:07:33,278 - INFO - Pasted image 58 at position (128, 448)
+2024-08-26 20:07:33,278 - INFO - Resized image 59 to (64, 64)
+2024-08-26 20:07:33,278 - INFO - Pasted image 59 at position (192, 448)
+2024-08-26 20:07:33,279 - INFO - Resized image 60 to (64, 64)
+2024-08-26 20:07:33,279 - INFO - Pasted image 60 at position (256, 448)
+2024-08-26 20:07:33,280 - INFO - Resized image 61 to (64, 64)
+2024-08-26 20:07:33,280 - INFO - Pasted image 61 at position (320, 448)
+2024-08-26 20:07:33,280 - INFO - Resized image 62 to (64, 64)
+2024-08-26 20:07:33,280 - INFO - Pasted image 62 at position (384, 448)
+2024-08-26 20:07:33,281 - INFO - Resized image 63 to (64, 64)
+2024-08-26 20:07:33,281 - INFO - Pasted image 63 at position (448, 448)
+2024-08-26 20:07:33,301 - INFO - Successfully saved the SubUV texture to output_subuv_texture.png
+2024-08-26 20:10:13,518 - INFO - Logging has started.
+2024-08-26 20:10:13,519 - INFO - Starting SubUV texture creation. Input folder: ./images, Output file: output_subuv_texture.png
+2024-08-26 20:10:13,532 - INFO - Loaded image: 0010.png
+2024-08-26 20:10:13,532 - INFO - Loaded image: 0011.png
+2024-08-26 20:10:13,533 - INFO - Loaded image: 0012.png
+2024-08-26 20:10:13,533 - INFO - Loaded image: 0013.png
+2024-08-26 20:10:13,534 - INFO - Loaded image: 0014.png
+2024-08-26 20:10:13,534 - INFO - Loaded image: 0015.png
+2024-08-26 20:10:13,534 - INFO - Loaded image: 0016.png
+2024-08-26 20:10:13,534 - INFO - Loaded image: 0017.png
+2024-08-26 20:10:13,535 - INFO - Loaded image: 0018.png
+2024-08-26 20:10:13,535 - INFO - Loaded image: 0019.png
+2024-08-26 20:10:13,535 - INFO - Loaded image: 0020.png
+2024-08-26 20:10:13,535 - INFO - Loaded image: 0021.png
+2024-08-26 20:10:13,536 - INFO - Loaded image: 0022.png
+2024-08-26 20:10:13,536 - INFO - Loaded image: 0023.png
+2024-08-26 20:10:13,536 - INFO - Loaded image: 0024.png
+2024-08-26 20:10:13,536 - INFO - Loaded image: 0025.png
+2024-08-26 20:10:13,537 - INFO - Loaded image: 0026.png
+2024-08-26 20:10:13,537 - INFO - Loaded image: 0027.png
+2024-08-26 20:10:13,537 - INFO - Loaded image: 0028.png
+2024-08-26 20:10:13,537 - INFO - Loaded image: 0029.png
+2024-08-26 20:10:13,538 - INFO - Loaded image: 0030.png
+2024-08-26 20:10:13,538 - INFO - Loaded image: 0031.png
+2024-08-26 20:10:13,538 - INFO - Loaded image: 0032.png
+2024-08-26 20:10:13,538 - INFO - Loaded image: 0033.png
+2024-08-26 20:10:13,539 - INFO - Loaded image: 0034.png
+2024-08-26 20:10:13,539 - INFO - Loaded image: 0035.png
+2024-08-26 20:10:13,539 - INFO - Loaded image: 0036.png
+2024-08-26 20:10:13,539 - INFO - Loaded image: 0037.png
+2024-08-26 20:10:13,540 - INFO - Loaded image: 0038.png
+2024-08-26 20:10:13,540 - INFO - Loaded image: 0039.png
+2024-08-26 20:10:13,540 - INFO - Loaded image: 0040.png
+2024-08-26 20:10:13,540 - INFO - Loaded image: 0041.png
+2024-08-26 20:10:13,541 - INFO - Loaded image: 0042.png
+2024-08-26 20:10:13,541 - INFO - Loaded image: 0043.png
+2024-08-26 20:10:13,541 - INFO - Loaded image: 0044.png
+2024-08-26 20:10:13,541 - INFO - Loaded image: 0045.png
+2024-08-26 20:10:13,542 - INFO - Loaded image: 0046.png
+2024-08-26 20:10:13,542 - INFO - Loaded image: 0047.png
+2024-08-26 20:10:13,542 - INFO - Loaded image: 0048.png
+2024-08-26 20:10:13,542 - INFO - Loaded image: 0049.png
+2024-08-26 20:10:13,542 - INFO - Loaded image: 0050.png
+2024-08-26 20:10:13,542 - INFO - Loaded image: 0051.png
+2024-08-26 20:10:13,542 - INFO - Loaded image: 0052.png
+2024-08-26 20:10:13,543 - INFO - Loaded image: 0053.png
+2024-08-26 20:10:13,543 - INFO - Loaded image: 0054.png
+2024-08-26 20:10:13,543 - INFO - Loaded image: 0055.png
+2024-08-26 20:10:13,543 - INFO - Loaded image: 0056.png
+2024-08-26 20:10:13,544 - INFO - Loaded image: 0057.png
+2024-08-26 20:10:13,544 - INFO - Loaded image: 0058.png
+2024-08-26 20:10:13,544 - INFO - Loaded image: 0059.png
+2024-08-26 20:10:13,545 - INFO - Loaded image: 0060.png
+2024-08-26 20:10:13,545 - INFO - Loaded image: 0061.png
+2024-08-26 20:10:13,545 - INFO - Loaded image: 0062.png
+2024-08-26 20:10:13,546 - INFO - Loaded image: 0063.png
+2024-08-26 20:10:13,546 - INFO - Loaded image: 0064.png
+2024-08-26 20:10:13,546 - INFO - Loaded image: 0065.png
+2024-08-26 20:10:13,547 - INFO - Loaded image: 0066.png
+2024-08-26 20:10:13,547 - INFO - Loaded image: 0067.png
+2024-08-26 20:10:13,547 - INFO - Loaded image: 0068.png
+2024-08-26 20:10:13,548 - INFO - Loaded image: 0069.png
+2024-08-26 20:10:13,548 - INFO - Loaded image: 0070.png
+2024-08-26 20:10:13,549 - INFO - Loaded image: 0071.png
+2024-08-26 20:10:13,549 - INFO - Loaded image: 0072.png
+2024-08-26 20:10:13,549 - INFO - Loaded image: 0073.png
+2024-08-26 20:10:13,549 - INFO - Grid size: 8x8, Total grid dimensions: 512x512
+2024-08-26 20:10:13,549 - INFO - Created a blank grid image of size 512x512
+2024-08-26 20:10:13,549 - INFO - Resized image 0 to (64, 64)
+2024-08-26 20:10:13,550 - INFO - Pasted image 0 at position (0, 0)
+2024-08-26 20:10:13,550 - INFO - Resized image 1 to (64, 64)
+2024-08-26 20:10:13,550 - INFO - Pasted image 1 at position (64, 0)
+2024-08-26 20:10:13,551 - INFO - Resized image 2 to (64, 64)
+2024-08-26 20:10:13,551 - INFO - Pasted image 2 at position (128, 0)
+2024-08-26 20:10:13,551 - INFO - Resized image 3 to (64, 64)
+2024-08-26 20:10:13,551 - INFO - Pasted image 3 at position (192, 0)
+2024-08-26 20:10:13,552 - INFO - Resized image 4 to (64, 64)
+2024-08-26 20:10:13,552 - INFO - Pasted image 4 at position (256, 0)
+2024-08-26 20:10:13,552 - INFO - Resized image 5 to (64, 64)
+2024-08-26 20:10:13,552 - INFO - Pasted image 5 at position (320, 0)
+2024-08-26 20:10:13,553 - INFO - Resized image 6 to (64, 64)
+2024-08-26 20:10:13,553 - INFO - Pasted image 6 at position (384, 0)
+2024-08-26 20:10:13,553 - INFO - Resized image 7 to (64, 64)
+2024-08-26 20:10:13,553 - INFO - Pasted image 7 at position (448, 0)
+2024-08-26 20:10:13,554 - INFO - Resized image 8 to (64, 64)
+2024-08-26 20:10:13,554 - INFO - Pasted image 8 at position (0, 64)
+2024-08-26 20:10:13,554 - INFO - Resized image 9 to (64, 64)
+2024-08-26 20:10:13,554 - INFO - Pasted image 9 at position (64, 64)
+2024-08-26 20:10:13,555 - INFO - Resized image 10 to (64, 64)
+2024-08-26 20:10:13,555 - INFO - Pasted image 10 at position (128, 64)
+2024-08-26 20:10:13,556 - INFO - Resized image 11 to (64, 64)
+2024-08-26 20:10:13,556 - INFO - Pasted image 11 at position (192, 64)
+2024-08-26 20:10:13,556 - INFO - Resized image 12 to (64, 64)
+2024-08-26 20:10:13,556 - INFO - Pasted image 12 at position (256, 64)
+2024-08-26 20:10:13,557 - INFO - Resized image 13 to (64, 64)
+2024-08-26 20:10:13,557 - INFO - Pasted image 13 at position (320, 64)
+2024-08-26 20:10:13,557 - INFO - Resized image 14 to (64, 64)
+2024-08-26 20:10:13,557 - INFO - Pasted image 14 at position (384, 64)
+2024-08-26 20:10:13,558 - INFO - Resized image 15 to (64, 64)
+2024-08-26 20:10:13,558 - INFO - Pasted image 15 at position (448, 64)
+2024-08-26 20:10:13,558 - INFO - Resized image 16 to (64, 64)
+2024-08-26 20:10:13,558 - INFO - Pasted image 16 at position (0, 128)
+2024-08-26 20:10:13,559 - INFO - Resized image 17 to (64, 64)
+2024-08-26 20:10:13,559 - INFO - Pasted image 17 at position (64, 128)
+2024-08-26 20:10:13,559 - INFO - Resized image 18 to (64, 64)
+2024-08-26 20:10:13,559 - INFO - Pasted image 18 at position (128, 128)
+2024-08-26 20:10:13,560 - INFO - Resized image 19 to (64, 64)
+2024-08-26 20:10:13,560 - INFO - Pasted image 19 at position (192, 128)
+2024-08-26 20:10:13,560 - INFO - Resized image 20 to (64, 64)
+2024-08-26 20:10:13,560 - INFO - Pasted image 20 at position (256, 128)
+2024-08-26 20:10:13,561 - INFO - Resized image 21 to (64, 64)
+2024-08-26 20:10:13,561 - INFO - Pasted image 21 at position (320, 128)
+2024-08-26 20:10:13,561 - INFO - Resized image 22 to (64, 64)
+2024-08-26 20:10:13,561 - INFO - Pasted image 22 at position (384, 128)
+2024-08-26 20:10:13,562 - INFO - Resized image 23 to (64, 64)
+2024-08-26 20:10:13,562 - INFO - Pasted image 23 at position (448, 128)
+2024-08-26 20:10:13,562 - INFO - Resized image 24 to (64, 64)
+2024-08-26 20:10:13,562 - INFO - Pasted image 24 at position (0, 192)
+2024-08-26 20:10:13,564 - INFO - Resized image 25 to (64, 64)
+2024-08-26 20:10:13,564 - INFO - Pasted image 25 at position (64, 192)
+2024-08-26 20:10:13,564 - INFO - Resized image 26 to (64, 64)
+2024-08-26 20:10:13,564 - INFO - Pasted image 26 at position (128, 192)
+2024-08-26 20:10:13,565 - INFO - Resized image 27 to (64, 64)
+2024-08-26 20:10:13,565 - INFO - Pasted image 27 at position (192, 192)
+2024-08-26 20:10:13,565 - INFO - Resized image 28 to (64, 64)
+2024-08-26 20:10:13,565 - INFO - Pasted image 28 at position (256, 192)
+2024-08-26 20:10:13,566 - INFO - Resized image 29 to (64, 64)
+2024-08-26 20:10:13,566 - INFO - Pasted image 29 at position (320, 192)
+2024-08-26 20:10:13,566 - INFO - Resized image 30 to (64, 64)
+2024-08-26 20:10:13,566 - INFO - Pasted image 30 at position (384, 192)
+2024-08-26 20:10:13,567 - INFO - Resized image 31 to (64, 64)
+2024-08-26 20:10:13,567 - INFO - Pasted image 31 at position (448, 192)
+2024-08-26 20:10:13,567 - INFO - Resized image 32 to (64, 64)
+2024-08-26 20:10:13,567 - INFO - Pasted image 32 at position (0, 256)
+2024-08-26 20:10:13,568 - INFO - Resized image 33 to (64, 64)
+2024-08-26 20:10:13,568 - INFO - Pasted image 33 at position (64, 256)
+2024-08-26 20:10:13,568 - INFO - Resized image 34 to (64, 64)
+2024-08-26 20:10:13,568 - INFO - Pasted image 34 at position (128, 256)
+2024-08-26 20:10:13,569 - INFO - Resized image 35 to (64, 64)
+2024-08-26 20:10:13,569 - INFO - Pasted image 35 at position (192, 256)
+2024-08-26 20:10:13,569 - INFO - Resized image 36 to (64, 64)
+2024-08-26 20:10:13,569 - INFO - Pasted image 36 at position (256, 256)
+2024-08-26 20:10:13,570 - INFO - Resized image 37 to (64, 64)
+2024-08-26 20:10:13,570 - INFO - Pasted image 37 at position (320, 256)
+2024-08-26 20:10:13,571 - INFO - Resized image 38 to (64, 64)
+2024-08-26 20:10:13,571 - INFO - Pasted image 38 at position (384, 256)
+2024-08-26 20:10:13,571 - INFO - Resized image 39 to (64, 64)
+2024-08-26 20:10:13,571 - INFO - Pasted image 39 at position (448, 256)
+2024-08-26 20:10:13,572 - INFO - Resized image 40 to (64, 64)
+2024-08-26 20:10:13,572 - INFO - Pasted image 40 at position (0, 320)
+2024-08-26 20:10:13,573 - INFO - Resized image 41 to (64, 64)
+2024-08-26 20:10:13,573 - INFO - Pasted image 41 at position (64, 320)
+2024-08-26 20:10:13,574 - INFO - Resized image 42 to (64, 64)
+2024-08-26 20:10:13,574 - INFO - Pasted image 42 at position (128, 320)
+2024-08-26 20:10:13,574 - INFO - Resized image 43 to (64, 64)
+2024-08-26 20:10:13,574 - INFO - Pasted image 43 at position (192, 320)
+2024-08-26 20:10:13,575 - INFO - Resized image 44 to (64, 64)
+2024-08-26 20:10:13,575 - INFO - Pasted image 44 at position (256, 320)
+2024-08-26 20:10:13,576 - INFO - Resized image 45 to (64, 64)
+2024-08-26 20:10:13,576 - INFO - Pasted image 45 at position (320, 320)
+2024-08-26 20:10:13,576 - INFO - Resized image 46 to (64, 64)
+2024-08-26 20:10:13,576 - INFO - Pasted image 46 at position (384, 320)
+2024-08-26 20:10:13,577 - INFO - Resized image 47 to (64, 64)
+2024-08-26 20:10:13,577 - INFO - Pasted image 47 at position (448, 320)
+2024-08-26 20:10:13,577 - INFO - Resized image 48 to (64, 64)
+2024-08-26 20:10:13,577 - INFO - Pasted image 48 at position (0, 384)
+2024-08-26 20:10:13,578 - INFO - Resized image 49 to (64, 64)
+2024-08-26 20:10:13,578 - INFO - Pasted image 49 at position (64, 384)
+2024-08-26 20:10:13,579 - INFO - Resized image 50 to (64, 64)
+2024-08-26 20:10:13,579 - INFO - Pasted image 50 at position (128, 384)
+2024-08-26 20:10:13,579 - INFO - Resized image 51 to (64, 64)
+2024-08-26 20:10:13,579 - INFO - Pasted image 51 at position (192, 384)
+2024-08-26 20:10:13,580 - INFO - Resized image 52 to (64, 64)
+2024-08-26 20:10:13,580 - INFO - Pasted image 52 at position (256, 384)
+2024-08-26 20:10:13,581 - INFO - Resized image 53 to (64, 64)
+2024-08-26 20:10:13,581 - INFO - Pasted image 53 at position (320, 384)
+2024-08-26 20:10:13,581 - INFO - Resized image 54 to (64, 64)
+2024-08-26 20:10:13,581 - INFO - Pasted image 54 at position (384, 384)
+2024-08-26 20:10:13,582 - INFO - Resized image 55 to (64, 64)
+2024-08-26 20:10:13,582 - INFO - Pasted image 55 at position (448, 384)
+2024-08-26 20:10:13,582 - INFO - Resized image 56 to (64, 64)
+2024-08-26 20:10:13,582 - INFO - Pasted image 56 at position (0, 448)
+2024-08-26 20:10:13,583 - INFO - Resized image 57 to (64, 64)
+2024-08-26 20:10:13,583 - INFO - Pasted image 57 at position (64, 448)
+2024-08-26 20:10:13,583 - INFO - Resized image 58 to (64, 64)
+2024-08-26 20:10:13,583 - INFO - Pasted image 58 at position (128, 448)
+2024-08-26 20:10:13,584 - INFO - Resized image 59 to (64, 64)
+2024-08-26 20:10:13,584 - INFO - Pasted image 59 at position (192, 448)
+2024-08-26 20:10:13,584 - INFO - Resized image 60 to (64, 64)
+2024-08-26 20:10:13,584 - INFO - Pasted image 60 at position (256, 448)
+2024-08-26 20:10:13,586 - INFO - Resized image 61 to (64, 64)
+2024-08-26 20:10:13,586 - INFO - Pasted image 61 at position (320, 448)
+2024-08-26 20:10:13,586 - INFO - Resized image 62 to (64, 64)
+2024-08-26 20:10:13,586 - INFO - Pasted image 62 at position (384, 448)
+2024-08-26 20:10:13,587 - INFO - Resized image 63 to (64, 64)
+2024-08-26 20:10:13,587 - INFO - Pasted image 63 at position (448, 448)
+2024-08-26 20:10:13,607 - INFO - Successfully saved the SubUV texture to output_subuv_texture.png
+2024-08-26 20:10:40,450 - INFO - Logging has started.
+2024-08-26 20:10:40,451 - INFO - Starting SubUV texture creation. Input folder: ./images, Output file: output_subuv_texture.png
+2024-08-26 20:10:40,464 - INFO - Loaded image: 0010.png
+2024-08-26 20:10:40,464 - INFO - Loaded image: 0011.png
+2024-08-26 20:10:40,465 - INFO - Loaded image: 0012.png
+2024-08-26 20:10:40,465 - INFO - Loaded image: 0013.png
+2024-08-26 20:10:40,465 - INFO - Loaded image: 0014.png
+2024-08-26 20:10:40,466 - INFO - Loaded image: 0015.png
+2024-08-26 20:10:40,466 - INFO - Loaded image: 0016.png
+2024-08-26 20:10:40,466 - INFO - Loaded image: 0017.png
+2024-08-26 20:10:40,466 - INFO - Loaded image: 0018.png
+2024-08-26 20:10:40,467 - INFO - Loaded image: 0019.png
+2024-08-26 20:10:40,467 - INFO - Loaded image: 0020.png
+2024-08-26 20:10:40,467 - INFO - Loaded image: 0021.png
+2024-08-26 20:10:40,468 - INFO - Loaded image: 0022.png
+2024-08-26 20:10:40,468 - INFO - Loaded image: 0023.png
+2024-08-26 20:10:40,469 - INFO - Loaded image: 0024.png
+2024-08-26 20:10:40,469 - INFO - Loaded image: 0025.png
+2024-08-26 20:10:40,469 - INFO - Loaded image: 0026.png
+2024-08-26 20:10:40,470 - INFO - Loaded image: 0027.png
+2024-08-26 20:10:40,470 - INFO - Loaded image: 0028.png
+2024-08-26 20:10:40,470 - INFO - Loaded image: 0029.png
+2024-08-26 20:10:40,470 - INFO - Loaded image: 0030.png
+2024-08-26 20:10:40,470 - INFO - Loaded image: 0031.png
+2024-08-26 20:10:40,471 - INFO - Loaded image: 0032.png
+2024-08-26 20:10:40,471 - INFO - Loaded image: 0033.png
+2024-08-26 20:10:40,471 - INFO - Loaded image: 0034.png
+2024-08-26 20:10:40,471 - INFO - Loaded image: 0035.png
+2024-08-26 20:10:40,472 - INFO - Loaded image: 0036.png
+2024-08-26 20:10:40,472 - INFO - Loaded image: 0037.png
+2024-08-26 20:10:40,472 - INFO - Loaded image: 0038.png
+2024-08-26 20:10:40,472 - INFO - Loaded image: 0039.png
+2024-08-26 20:10:40,473 - INFO - Loaded image: 0040.png
+2024-08-26 20:10:40,473 - INFO - Loaded image: 0041.png
+2024-08-26 20:10:40,473 - INFO - Loaded image: 0042.png
+2024-08-26 20:10:40,473 - INFO - Loaded image: 0043.png
+2024-08-26 20:10:40,474 - INFO - Loaded image: 0044.png
+2024-08-26 20:10:40,474 - INFO - Loaded image: 0045.png
+2024-08-26 20:10:40,474 - INFO - Loaded image: 0046.png
+2024-08-26 20:10:40,474 - INFO - Loaded image: 0047.png
+2024-08-26 20:10:40,474 - INFO - Loaded image: 0048.png
+2024-08-26 20:10:40,475 - INFO - Loaded image: 0049.png
+2024-08-26 20:10:40,475 - INFO - Loaded image: 0050.png
+2024-08-26 20:10:40,475 - INFO - Loaded image: 0051.png
+2024-08-26 20:10:40,476 - INFO - Loaded image: 0052.png
+2024-08-26 20:10:40,476 - INFO - Loaded image: 0053.png
+2024-08-26 20:10:40,476 - INFO - Loaded image: 0054.png
+2024-08-26 20:10:40,477 - INFO - Loaded image: 0055.png
+2024-08-26 20:10:40,477 - INFO - Loaded image: 0056.png
+2024-08-26 20:10:40,477 - INFO - Loaded image: 0057.png
+2024-08-26 20:10:40,477 - INFO - Loaded image: 0058.png
+2024-08-26 20:10:40,477 - INFO - Loaded image: 0059.png
+2024-08-26 20:10:40,478 - INFO - Loaded image: 0060.png
+2024-08-26 20:10:40,478 - INFO - Loaded image: 0061.png
+2024-08-26 20:10:40,479 - INFO - Loaded image: 0062.png
+2024-08-26 20:10:40,479 - INFO - Loaded image: 0063.png
+2024-08-26 20:10:40,479 - INFO - Loaded image: 0064.png
+2024-08-26 20:10:40,479 - INFO - Loaded image: 0065.png
+2024-08-26 20:10:40,479 - INFO - Loaded image: 0066.png
+2024-08-26 20:10:40,480 - INFO - Loaded image: 0067.png
+2024-08-26 20:10:40,480 - INFO - Loaded image: 0068.png
+2024-08-26 20:10:40,480 - INFO - Loaded image: 0069.png
+2024-08-26 20:10:40,481 - INFO - Loaded image: 0070.png
+2024-08-26 20:10:40,481 - INFO - Loaded image: 0071.png
+2024-08-26 20:10:40,481 - INFO - Loaded image: 0072.png
+2024-08-26 20:10:40,481 - INFO - Loaded image: 0073.png
+2024-08-26 20:10:40,481 - INFO - Grid size: 8x8, Total grid dimensions: 1024x1024
+2024-08-26 20:10:40,484 - INFO - Created a blank grid image of size 1024x1024
+2024-08-26 20:10:40,485 - INFO - Resized image 0 to (128, 128)
+2024-08-26 20:10:40,485 - INFO - Pasted image 0 at position (0, 0)
+2024-08-26 20:10:40,486 - INFO - Resized image 1 to (128, 128)
+2024-08-26 20:10:40,486 - INFO - Pasted image 1 at position (128, 0)
+2024-08-26 20:10:40,487 - INFO - Resized image 2 to (128, 128)
+2024-08-26 20:10:40,487 - INFO - Pasted image 2 at position (256, 0)
+2024-08-26 20:10:40,487 - INFO - Resized image 3 to (128, 128)
+2024-08-26 20:10:40,488 - INFO - Pasted image 3 at position (384, 0)
+2024-08-26 20:10:40,488 - INFO - Resized image 4 to (128, 128)
+2024-08-26 20:10:40,488 - INFO - Pasted image 4 at position (512, 0)
+2024-08-26 20:10:40,488 - INFO - Resized image 5 to (128, 128)
+2024-08-26 20:10:40,489 - INFO - Pasted image 5 at position (640, 0)
+2024-08-26 20:10:40,489 - INFO - Resized image 6 to (128, 128)
+2024-08-26 20:10:40,489 - INFO - Pasted image 6 at position (768, 0)
+2024-08-26 20:10:40,490 - INFO - Resized image 7 to (128, 128)
+2024-08-26 20:10:40,490 - INFO - Pasted image 7 at position (896, 0)
+2024-08-26 20:10:40,490 - INFO - Resized image 8 to (128, 128)
+2024-08-26 20:10:40,490 - INFO - Pasted image 8 at position (0, 128)
+2024-08-26 20:10:40,491 - INFO - Resized image 9 to (128, 128)
+2024-08-26 20:10:40,491 - INFO - Pasted image 9 at position (128, 128)
+2024-08-26 20:10:40,491 - INFO - Resized image 10 to (128, 128)
+2024-08-26 20:10:40,491 - INFO - Pasted image 10 at position (256, 128)
+2024-08-26 20:10:40,492 - INFO - Resized image 11 to (128, 128)
+2024-08-26 20:10:40,492 - INFO - Pasted image 11 at position (384, 128)
+2024-08-26 20:10:40,492 - INFO - Resized image 12 to (128, 128)
+2024-08-26 20:10:40,492 - INFO - Pasted image 12 at position (512, 128)
+2024-08-26 20:10:40,492 - INFO - Resized image 13 to (128, 128)
+2024-08-26 20:10:40,492 - INFO - Pasted image 13 at position (640, 128)
+2024-08-26 20:10:40,493 - INFO - Resized image 14 to (128, 128)
+2024-08-26 20:10:40,493 - INFO - Pasted image 14 at position (768, 128)
+2024-08-26 20:10:40,493 - INFO - Resized image 15 to (128, 128)
+2024-08-26 20:10:40,493 - INFO - Pasted image 15 at position (896, 128)
+2024-08-26 20:10:40,494 - INFO - Resized image 16 to (128, 128)
+2024-08-26 20:10:40,494 - INFO - Pasted image 16 at position (0, 256)
+2024-08-26 20:10:40,494 - INFO - Resized image 17 to (128, 128)
+2024-08-26 20:10:40,494 - INFO - Pasted image 17 at position (128, 256)
+2024-08-26 20:10:40,495 - INFO - Resized image 18 to (128, 128)
+2024-08-26 20:10:40,495 - INFO - Pasted image 18 at position (256, 256)
+2024-08-26 20:10:40,495 - INFO - Resized image 19 to (128, 128)
+2024-08-26 20:10:40,495 - INFO - Pasted image 19 at position (384, 256)
+2024-08-26 20:10:40,496 - INFO - Resized image 20 to (128, 128)
+2024-08-26 20:10:40,496 - INFO - Pasted image 20 at position (512, 256)
+2024-08-26 20:10:40,496 - INFO - Resized image 21 to (128, 128)
+2024-08-26 20:10:40,496 - INFO - Pasted image 21 at position (640, 256)
+2024-08-26 20:10:40,497 - INFO - Resized image 22 to (128, 128)
+2024-08-26 20:10:40,497 - INFO - Pasted image 22 at position (768, 256)
+2024-08-26 20:10:40,497 - INFO - Resized image 23 to (128, 128)
+2024-08-26 20:10:40,497 - INFO - Pasted image 23 at position (896, 256)
+2024-08-26 20:10:40,498 - INFO - Resized image 24 to (128, 128)
+2024-08-26 20:10:40,498 - INFO - Pasted image 24 at position (0, 384)
+2024-08-26 20:10:40,498 - INFO - Resized image 25 to (128, 128)
+2024-08-26 20:10:40,498 - INFO - Pasted image 25 at position (128, 384)
+2024-08-26 20:10:40,498 - INFO - Resized image 26 to (128, 128)
+2024-08-26 20:10:40,499 - INFO - Pasted image 26 at position (256, 384)
+2024-08-26 20:10:40,499 - INFO - Resized image 27 to (128, 128)
+2024-08-26 20:10:40,499 - INFO - Pasted image 27 at position (384, 384)
+2024-08-26 20:10:40,499 - INFO - Resized image 28 to (128, 128)
+2024-08-26 20:10:40,499 - INFO - Pasted image 28 at position (512, 384)
+2024-08-26 20:10:40,500 - INFO - Resized image 29 to (128, 128)
+2024-08-26 20:10:40,500 - INFO - Pasted image 29 at position (640, 384)
+2024-08-26 20:10:40,500 - INFO - Resized image 30 to (128, 128)
+2024-08-26 20:10:40,500 - INFO - Pasted image 30 at position (768, 384)
+2024-08-26 20:10:40,501 - INFO - Resized image 31 to (128, 128)
+2024-08-26 20:10:40,501 - INFO - Pasted image 31 at position (896, 384)
+2024-08-26 20:10:40,501 - INFO - Resized image 32 to (128, 128)
+2024-08-26 20:10:40,501 - INFO - Pasted image 32 at position (0, 512)
+2024-08-26 20:10:40,502 - INFO - Resized image 33 to (128, 128)
+2024-08-26 20:10:40,502 - INFO - Pasted image 33 at position (128, 512)
+2024-08-26 20:10:40,502 - INFO - Resized image 34 to (128, 128)
+2024-08-26 20:10:40,502 - INFO - Pasted image 34 at position (256, 512)
+2024-08-26 20:10:40,503 - INFO - Resized image 35 to (128, 128)
+2024-08-26 20:10:40,503 - INFO - Pasted image 35 at position (384, 512)
+2024-08-26 20:10:40,503 - INFO - Resized image 36 to (128, 128)
+2024-08-26 20:10:40,503 - INFO - Pasted image 36 at position (512, 512)
+2024-08-26 20:10:40,504 - INFO - Resized image 37 to (128, 128)
+2024-08-26 20:10:40,504 - INFO - Pasted image 37 at position (640, 512)
+2024-08-26 20:10:40,504 - INFO - Resized image 38 to (128, 128)
+2024-08-26 20:10:40,504 - INFO - Pasted image 38 at position (768, 512)
+2024-08-26 20:10:40,505 - INFO - Resized image 39 to (128, 128)
+2024-08-26 20:10:40,505 - INFO - Pasted image 39 at position (896, 512)
+2024-08-26 20:10:40,505 - INFO - Resized image 40 to (128, 128)
+2024-08-26 20:10:40,505 - INFO - Pasted image 40 at position (0, 640)
+2024-08-26 20:10:40,506 - INFO - Resized image 41 to (128, 128)
+2024-08-26 20:10:40,506 - INFO - Pasted image 41 at position (128, 640)
+2024-08-26 20:10:40,506 - INFO - Resized image 42 to (128, 128)
+2024-08-26 20:10:40,507 - INFO - Pasted image 42 at position (256, 640)
+2024-08-26 20:10:40,507 - INFO - Resized image 43 to (128, 128)
+2024-08-26 20:10:40,507 - INFO - Pasted image 43 at position (384, 640)
+2024-08-26 20:10:40,508 - INFO - Resized image 44 to (128, 128)
+2024-08-26 20:10:40,508 - INFO - Pasted image 44 at position (512, 640)
+2024-08-26 20:10:40,508 - INFO - Resized image 45 to (128, 128)
+2024-08-26 20:10:40,508 - INFO - Pasted image 45 at position (640, 640)
+2024-08-26 20:10:40,509 - INFO - Resized image 46 to (128, 128)
+2024-08-26 20:10:40,509 - INFO - Pasted image 46 at position (768, 640)
+2024-08-26 20:10:40,509 - INFO - Resized image 47 to (128, 128)
+2024-08-26 20:10:40,509 - INFO - Pasted image 47 at position (896, 640)
+2024-08-26 20:10:40,510 - INFO - Resized image 48 to (128, 128)
+2024-08-26 20:10:40,510 - INFO - Pasted image 48 at position (0, 768)
+2024-08-26 20:10:40,510 - INFO - Resized image 49 to (128, 128)
+2024-08-26 20:10:40,510 - INFO - Pasted image 49 at position (128, 768)
+2024-08-26 20:10:40,510 - INFO - Resized image 50 to (128, 128)
+2024-08-26 20:10:40,511 - INFO - Pasted image 50 at position (256, 768)
+2024-08-26 20:10:40,511 - INFO - Resized image 51 to (128, 128)
+2024-08-26 20:10:40,511 - INFO - Pasted image 51 at position (384, 768)
+2024-08-26 20:10:40,511 - INFO - Resized image 52 to (128, 128)
+2024-08-26 20:10:40,511 - INFO - Pasted image 52 at position (512, 768)
+2024-08-26 20:10:40,512 - INFO - Resized image 53 to (128, 128)
+2024-08-26 20:10:40,512 - INFO - Pasted image 53 at position (640, 768)
+2024-08-26 20:10:40,512 - INFO - Resized image 54 to (128, 128)
+2024-08-26 20:10:40,512 - INFO - Pasted image 54 at position (768, 768)
+2024-08-26 20:10:40,512 - INFO - Resized image 55 to (128, 128)
+2024-08-26 20:10:40,512 - INFO - Pasted image 55 at position (896, 768)
+2024-08-26 20:10:40,514 - INFO - Resized image 56 to (128, 128)
+2024-08-26 20:10:40,514 - INFO - Pasted image 56 at position (0, 896)
+2024-08-26 20:10:40,514 - INFO - Resized image 57 to (128, 128)
+2024-08-26 20:10:40,514 - INFO - Pasted image 57 at position (128, 896)
+2024-08-26 20:10:40,515 - INFO - Resized image 58 to (128, 128)
+2024-08-26 20:10:40,515 - INFO - Pasted image 58 at position (256, 896)
+2024-08-26 20:10:40,515 - INFO - Resized image 59 to (128, 128)
+2024-08-26 20:10:40,515 - INFO - Pasted image 59 at position (384, 896)
+2024-08-26 20:10:40,516 - INFO - Resized image 60 to (128, 128)
+2024-08-26 20:10:40,516 - INFO - Pasted image 60 at position (512, 896)
+2024-08-26 20:10:40,516 - INFO - Resized image 61 to (128, 128)
+2024-08-26 20:10:40,516 - INFO - Pasted image 61 at position (640, 896)
+2024-08-26 20:10:40,517 - INFO - Resized image 62 to (128, 128)
+2024-08-26 20:10:40,517 - INFO - Pasted image 62 at position (768, 896)
+2024-08-26 20:10:40,517 - INFO - Resized image 63 to (128, 128)
+2024-08-26 20:10:40,517 - INFO - Pasted image 63 at position (896, 896)
+2024-08-26 20:10:40,635 - INFO - Successfully saved the SubUV texture to output_subuv_texture.png
