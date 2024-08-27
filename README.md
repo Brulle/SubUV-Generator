@@ -16,7 +16,7 @@ Simple tool that generates a sub-uv texture by a folder of images.
   - 2:6. Save and close settings.ini.
 
 - 3. Start up
-  - 3:1. Open the start.bat.
+  - 3:1. Open the [start.bat](./start.bat).
 
 - 4. Troubleshooting (Incase of error)
   - 4:1. Open log.txt.
